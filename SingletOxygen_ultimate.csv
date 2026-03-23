@@ -1,0 +1,931 @@
+﻿No.,Chemical compound,Logk,Cas,Smiles,Ph,T,Ref,Pubchem_cid,Chemical_class_27,Chemical_class_coarse
+1,4-Nitrophenol ,6.4,100-02-7 ,O=[N+] ([O-]) c1ccc(O)cc1 ,8.8,,https://doi.org/10.1016/0045-6535(87)90004-X,,benzene,Aromatic & PAHs
+2,4-Nitrophenol ,6.48,100-02-7 ,O=[N+] ([O-]) c1ccc(O)cc1 ,10,,https://doi.org/10.1080/02772249009357622,,benzene,Aromatic & PAHs
+3,Microcystin YR ,8.01,101064-48-6 ,[H]/N=C (\N) NCCC····(C(=O) O) N[C@H]1Cc1ccc(O)cc1 ,11.6,,https://doi.org/10.1021/acs.est.1c04194,,benzene,Aromatic & PAHs
+4,Methionine methyl ,6.85,10332-17-9 ,COC(=O) [C@@H] (N)CCSC ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,"sulfide, disulfide",Sulfur-containing organics
+5,Imazapic ,5.79,104098-48-8 ,Cc1cnc(C2=N[C@@] (C)(C(C)C) C(=O) N2) c(C(=O) O) c1 ,7,,https://doi.org/10.1016/j.scitotenv.2022.160473,,cyclo,Aromatic & PAHs
+6,mesotrione ,5.84,104206-82-8 ,CS(=O) (=O) c1ccc(C(=O) C2C(=O) CCCC2=O) c([N+] (=O) [O-]) c1 ,8.51,,https://doi.org/10.1021/es3030808,,"sulfide, disulfide",Sulfur-containing organics
+7,"2,4-dimethylphenol ",6.36,105-67-9 ,Cc1ccc(O)c(C)c1 ,3,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+8,carbendazim ,6.3,10605-21-7 ,COC(=O) Nc1nc2ccccc2[nH]1 ,6,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,alcohol,Oxygenated organics
+9,4-bromophenol ,8.18,106-41-2 ,Oc1ccc (Br)cc1 ,11,,https://doi.org/10.1139/v93-160,,alcohol,Oxygenated organics
+10,p-Cresol ,7.04,106-44-5 ,Cc1ccc(O)cc1 ,8.3,,https://doi.org/10.1016/0045-6535(87)90004-X,,benzene,Aromatic & PAHs
+11,p-Cresol ,7.38,106-44-5 ,Cc1ccc(O)cc1 ,8.8,,https://doi.org/10.1016/0045-6535(87)90004-X,,benzene,Aromatic & PAHs
+12,p-Cresol ,8.2,106-44-5 ,Cc1ccc(O)cc1 ,10,,https://doi.org/10.1016/0045-6535(87)90004-X,,benzene,Aromatic & PAHs
+13,p-Cresol ,8.54,106-44-5 ,Cc1ccc(O)cc1 ,11.5,,https://doi.org/10.1016/0045-6535(87)90004-X,,benzene,Aromatic & PAHs
+14,p-Cresol ,8.55,106-44-5 ,Cc1ccc(O)cc1 ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+15,4-chlorophenol ,8.0,106-48-9 ,Oc1ccc (Cl)cc1 ,11,,https://doi.org/10.1139/v93-160,,alcohol,Oxygenated organics
+16,"2,5-dihydroxy biphenyl ",7.38,1079-21-6 ,Oc1ccc(O)c(-c2ccccc2) c1 ,8,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+17,3-methylphenol ,7.26,108-39-4 ,Cc1cccc(O)c1 ,3,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+18,3-methylphenol ,8.31,108-39-4 ,Cc1cccc(O)c1 ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+19,3-chlorophenol ,6.52,108-43-0 ,Oc1cccc (Cl)c1 ,3,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+20,3-chlorophenol ,7.18,108-43-0 ,Oc1cccc (Cl)c1 ,11.5,,https://doi.org/10.1080/02772249009357622,,alcohol,Oxygenated organics
+21,3-chlorophenol ,8.17,108-43-0 ,Oc1cccc (Cl)c1 ,12,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+22,Phenol ,6.4,108-95-2 ,Oc1ccccc1 ,8,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+23,Phenol ,7.28,108-95-2 ,Oc1ccccc1 ,9,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+24,Phenol ,7.66,108-95-2 ,Oc1ccccc1 ,9.5,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+25,Phenol ,7.95,108-95-2 ,Oc1ccccc1 ,10,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+26,Phenol ,8.26,108-95-2 ,Oc1ccccc1 ,11.5,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+27,3-Hydroxypyridine ,7.41,109-00-2 ,Oc1cccnc1 ,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,alcohol,Oxygenated organics
+28,3-Hydroxypyridine ,8.41,109-00-2 ,Oc1cccnc1 ,11,,https://doi.org/10.1016/S1010-6030(99)00115-X,,alcohol,Oxygenated organics
+29,allylthiourea ,6.6,109-57-9 ,C=CCNC(N)=S ,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb07557.x,,"sulfide, disulfide",Sulfur-containing organics
+30,pyrrole ,8.7,109-97-7 ,c1cc[nH]c1 ,7,,https://doi.org/10.1021/acs.est.9b03948,,cyclo,Aromatic & PAHs
+31,2-methyl-3-hydroxypyridine ,7.72,1121-25-1 ,Cc1ncccc1O ,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,cyclo,Aromatic & PAHs
+32,2-methyl-3-hydroxypyridine ,8.45,1121-25-1 ,Cc1ncccc1O ,11,,https://doi.org/10.1016/S1010-6030(99)00115-X,,cyclo,Aromatic & PAHs
+33,glycyl-tyrosyl-alanine ,8.0,112898-27-8 ,C[C@H] (NC(=O) [C@H] (Cc1ccc(O)cc1) NC(=O) CN) C(=O) O ,11.5,,https://doi.org/10.1007/bf00805805,,halogeneted,Halogenated organics
+34,"7,8-dihydroxanthopterin ",8.88,1131-35-7 ,Nc1nc2c(c(=O) [nH]1) NC(=O) CN2 ,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+35,2-methyl-3-butene-2-ol ,5.9,115-18-4 ,C=CC(C)(C) O ,5.1,,https://doi.org/10.1021/es503656m,,halogeneted,Halogenated organics
+36,Succinylsulfathiazole ,8.06,116-43-8 ,O=C(O)CCC(=O) Nc1ccc(S(=O) (=O) Nc2nccs2) cc ,12,,https://doi.org/10.1016/S0143-7208(00)00010-3,,"sulfide, disulfide",Sulfur-containing organics
+37,Succinylsulfathiazole ,5.78,116-43-8 ,O=C(O)CCC(=O) Ncccc1 (S(=O) (=O) Nc2nccs2) cc ,6,,https://doi.org/10.1016/S0143-7208(00)00010-3,,"sulfide, disulfide",Sulfur-containing organics
+38,"2,4,6-tribromophenol ",6.43,118-79-6 ,Oc1c(Br)cc (Br)cc1Br ,3,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+39,"2,4,6-tribromophenol ",7.92,118-79-6 ,Oc1c(Br)cc (Br)cc1Br ,12,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+40,pteroic acid ,7.08,119-24-4 ,Nc1nc2ncc (CNc3ccc(C(=O) O) cc) nc2c(=O) [nH]1 ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+41,2-nitro-4-methylphenolate ,7.45,119-33-5 ,Cc1ccc(O)c([N+] (=O) [O-]) c1 ,10,,https://doi.org/10.1080/02772249009357622,,cyclo,Aromatic & PAHs
+42,Indole ,7.64,120-72-9 ,c1ccc2[nH]ccc2c1 ,7.5,,https://doi.org/10.1039/C5EM00045A,,cyclo,Aromatic & PAHs
+43,"2,4-Dichlorophenol ",6.3,120-83-2 ,Oc1ccc (Cl)cc1Cl ,6,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+44,"2,4-Dichlorophenol ",7.0,120-83-2 ,Oc1ccc (Cl)cc1Cl ,6.6,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+45,"2,4-Dichlorophenol ",7.18,120-83-2 ,Oc1ccc (Cl)cc1Cl ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+46,"2,4-Dichlorophenol ",7.88,120-83-2 ,Oc1ccc (Cl)cc1Cl ,7.9,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+47,"2,4-Dichlorophenol ",8.08,120-83-2 ,Oc1ccc (Cl)cc1Cl ,9,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+48,"2,4-Dichlorophenol ",8.08,120-83-2 ,Oc1ccc (Cl)cc1Cl ,9.6,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+49,vanillin ,6.66,121-33-5 ,COc1cc(C=O) ccc1O ,5,,https://doi.org/10.1016/j.watres.2023.120586,,alcohol,Oxygenated organics
+50,"7,8-dihydroneopterin ",8.62,1218-98-0 ,Nc1nc2c(c(=O) [nH]1) N=C([C@H] (O)[C@H] (O)CO) CN2 ,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+51,maleic hydrazide ,7.18,123-33-1 ,O=c1ccc(=O) [nH][nH]1 ,7,,https://doi.org/10.1016/j.jphotobiol.2014.04.002,,halogeneted,Halogenated organics
+52,maleic hydrazide ,8.08,123-33-1 ,O=c1ccc(=O) [nH][nH]1 ,9,,https://doi.org/10.1016/j.jphotobiol.2014.04.002,,halogeneted,Halogenated organics
+53,Sulfisoxazole ,7.74,127-69-5 ,Cc1noc (NS(=O) (=O) c2ccc(N)cc2) c1C ,10.2,,https://doi.org/10.1021/es0353053,,alcohol,Oxygenated organics
+54,Sulfamerazine ,6.96,127-79-7 ,Cc1ccnc (NS(=O) (=O) c2ccc(N)cc2) n1 ,8,,https://doi.org/10.1021/es048331p,,benzene,Aromatic & PAHs
+55,rhamnopterin ,6.38,13392-24-0 ,C[C@@H] (O)[C@H] (O)[C@H] (O)c1cnc2nc(N)[nH]c(=O) c2n1 ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+56,lamivudine ,5.72,134678-17-4 ,Nc1ccn([C@@H]2CS[C@H] (CO)O2) c(=O) n1 ,7,,https://doi.org/10.1016/j.chemosphere.2015.08.033,,nitro,Nitrogen-containing organics
+57,2-hydroxynaphthalene ,6.93,135-19-3 ,Oc1ccc2ccccc2c1 ,7,,https://doi.org/10.1016/S1010-6030(99)00172-0,,alcohol,Oxygenated organics
+58,2-hydroxynaphthalene ,8.4,135-19-3 ,Oc1ccc2ccccc2c1 ,11,,https://doi.org/10.1016/S1010-6030(99)00172-0,,alcohol,Oxygenated organics
+59,Pindolol ,8.06,13523-86-9 ,CC(C) ···c1cccc2[nH]ccc12 ,6,,https://doi.org/10.1039/b203359c,,cyclo,Aromatic & PAHs
+60,Tolfenamic acid ,7.11,13710-19-5 ,Cc1c(Cl)cccc1Nc1ccccc1C(=O) O ,7.5,,https://doi.org/10.1039/c7em00079k,,benzene,Aromatic & PAHs
+61,Imidacloprid ,6.58,138261-41-3 ,O=[N+] ([O-])/N=C1\NCCN1Cc1ccc (Cl)nc1 ,7,,https://doi.org/10.1016/j.cej.2023.145636,,cyclo,Aromatic & PAHs
+62,Gentamycin ,5.42,1403-66-3 ,C[C@@H] ([C@@H]1CC[C@H] ···(CO3) (C)O) NC) O) N) N) N) NC ,7,,https://doi.org/10.1021/acs.est.5b05234,,halogeneted,Halogenated organics
+63,zeaxanthin ,9.77,144-68-3 ,CC1=C(/C=C/C(C)···(O)CC2(C) C) C(C)(C) C[C@H] (O)C1 ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+64,8-hydroxyquinoline ,6.9,148-24-3 ,Oc1cccc2cccnc12 ,6,,https://doi.org/10.1016/S1010-6030(98)00394-3,,alcohol,Oxygenated organics
+65,8-hydroxyquinoline ,8.23,148-24-3 ,Oc1cccc2cccnc12 ,11,,https://doi.org/10.1016/S1010-6030(98)00394-3,,alcohol,Oxygenated organics
+66,4-methoxyphenol ,7.72,150-76-5 ,COc1ccc(O)cc1 ,7.6,,https://doi.org/10.1562/2006-09-15-ra-1041,,alcohol,Oxygenated organics
+67,"2,4-diaminoprimidine cation ",6.48,156-81-0 ,Nc1ccnc(N)n1 ,6,,https://doi.org/10.1016/j.watres.2011.12.052,,halogeneted,Halogenated organics
+68,bisphenol AP ,7.34,1571-75-1 ,CC(c1ccccc1) (c1ccc(O)cc1) c1ccc(O)cc1 ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+69,Alachlor ,5.52,15972-60-8 ,CCc1cccc (CC)c1N(COC)C(=O) CCl ,8.51,,https://doi.org/10.1021/es3030808,,cyclo,Aromatic & PAHs
+70,4-methyl-indole ,8.09,16096-32-5 ,Cc1cccc2[nH]ccc12 ,6,,https://doi.org/10.1039/b203359c,,cyclo,Aromatic & PAHs
+71,Anabaenopeptin B ,7.98,161897-74-1 ,[H]/N=C(\N) NCCC···[C@H] (C(C)C) NC1=O) C(=O) O ,11.6,,https://doi.org/10.1021/acs.est.1c04194,,halogeneted,Halogenated organics
+72,2-amino-3-hydroxypyridine ,8.13,16867-03-1 ,Nc1ncccc1O ,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,cyclo,Aromatic & PAHs
+73,2-amino-3-hydroxypyridine ,8.46,16867-03-1 ,Nc1ncccc1O ,11,,https://doi.org/10.1016/S1010-6030(99)00115-X,,cyclo,Aromatic & PAHs
+74,Clopyralid ,5.85,1702-17-6 ,O=C(O)c1nc (Cl)ccc1Cl ,8.51,,https://doi.org/10.1021/es3030808,,cyclo,Aromatic & PAHs
+75,"2,2'--dihydroxy biphenyl ",7.34,1806-29-7 ,Oc1ccccc1-c1ccccc1O ,11,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+76,Atrazine ,5.3,1912-24-9 ,CCNc1nc (Cl)nc(NC(C)C)n1 ,8.51,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+77,metoxuron ,6.04,19937-59-8 ,COc1ccc (NC(=O) N(C)C) cc1Cl ,8.51,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+78,2-chlorobiphenyl ,6.05,2051-60-7 ,Clc1ccccc1-c1ccccc1 ,7.92,,https://doi.org/10.1007/s11356-021-17010-7,,benzene,Aromatic & PAHs
+79,Coniferyl aldehyde ,7.03,20649-42-7 ,COc1cc(/C=C/C=O) ccc1O ,5,,https://doi.org/10.1016/j.watres.2023.120586,,alcohol,Oxygenated organics
+80,Daunomycin ,7.2,20830-81-3 ,COc1cccc2c1C(=O) c1c(O)c3c(c(O)c1C2=O) C···(C)O1 ,7.8,,https://doi.org/10.1016/0009-2614(89)87490-1,,diol,Polyfunctional / highly functionalized
+81,Cyanazine ,5.23,21725-46-2 ,CCNc1nc (Cl)nc(NC(C)(C)CN)n1 ,8.51,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+82,Nicotin ,6.53,22083-74-5 ,CN1CCC[C@@H]1c1cccnc1 ,7,,https://doi.org/10.1016/j.watres.2014.02.016,,cyclo,Aromatic & PAHs
+83,naproxen ,6.82,22204-53-1 ,COc1ccc2cc([C@H] (C)C(=O) O) ccc2c1 ,7,,https://doi.org/10.1016/j.chemosphere.2017.08.110,,alcohol,Oxygenated organics
+84,naproxen ,6.95,22204-53-1 ,COc1ccc2cc([C@H] (C)C(=O) O) ccc2c1 ,5,,https://doi.org/10.1016/j.chemosphere.2017.08.110,,alcohol,Oxygenated organics
+85,naproxen ,7.15,22204-53-1 ,COc1ccc2cc([C@H] (C)C(=O) O) ccc2c1 ,3,,https://doi.org/10.1016/j.chemosphere.2017.08.110,,alcohol,Oxygenated organics
+86,pterin ,5.4,2236-60-4 ,Nc1nc2nccnc2c(=O) [nH]1 ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+87,diflunisal ,6.28,22494-42-4 ,O=C(O)c1cc(-c2ccc(F)cc2F) ccc1O ,7,,https://doi.org/10.1111/php.12114,,cyclo,Aromatic & PAHs
+88,Terbutaline ,6.85,23031-25-6 ,CC(C)(C) NC [C@H] (O)c1cc(O)cc(O)c1 ,7,,https://doi.org/10.1016/j.watres.2013.08.029,,benzene,Aromatic & PAHs
+89,Adriamycin ,7.18,23214-92-8 ,COc1cccc2c1C(=O) c1c(O)c3c(c(O)c1C2=O) ···(C)O1 ,7.8,,https://doi.org/10.1016/0009-2614(89)87490-1,,diol,Polyfunctional / highly functionalized
+90,tyrosyl-glycine ,7.63,23514-44-5 ,NCC(=O) N [C@@H] (Cc1ccc(O)cc1) C(=O) O ,7,,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+91,"2,6-dimethyl-4-bromophenol ",8.59,2374/5/2,Cc1cc (Br)cc(C)c1O ,11,,https://doi.org/10.1002/prac.19943360310,,cyclo,Aromatic & PAHs
+92,4-hydroxyindole ,8.16,2380-94-1 ,Oc1cccc2[nH]ccc12 ,6,,https://doi.org/10.1039/b203359c,,alcohol,Oxygenated organics
+93,"2,2,6,6-tetramethylpiperidin-4-ol ",7.6,2403-88-5 ,CC1(C)CC(O)CC(C) (C)N1 ,8,,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,,alkane,Aliphatic hydrocarbons
+94,glycyl-L-histidine ,7.92,2489-13-6 ,NCC(=O) N [C@@H] (Cc1c[nH]cn1) C(=O) O ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+95,L-histidylglycine ,7.82,2578-58-7 ,N[C@@H] (Cc1c[nH]cn1) C(=O) NCC(=O) O ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+96,4-HOBt ,8.12,26725-51-9 ,Oc1cccc2nn[nH]c12 ,7.5,,https://doi.org/10.1039/C5EM00045A,,alcohol,Oxygenated organics
+97,Timolol ,7.79,26839-75-8 ,CC(C)(C) NC[C@H] (O)COc1nsnc1N1CCOCC1 ,6,,https://doi.org/10.1016/j.jhazmat.2013.02.035,,diol,Polyfunctional / highly functionalized
+98,Timolol ,7.11,26839-75-8 ,CC(C)(C) NC[C@H] (O)COc1nsnc1N1CCOCC1 ,7,,https://doi.org/10.1016/j.jhazmat.2013.02.035,,diol,Polyfunctional / highly functionalized
+99,Timolol ,6.81,26839-75-8 ,CC(C)(C) NC[C@H] (O)COc1nsnc1N1CCOCC1 ,8,,https://doi.org/10.1016/j.jhazmat.2013.02.035,,diol,Polyfunctional / highly functionalized
+100,Timolol ,7.23,26839-75-8 ,CC(C)(C) NC[C@H] (O)COc1nsnc1N1CCOCC1 ,9,,https://doi.org/10.1016/j.jhazmat.2013.02.035,,diol,Polyfunctional / highly functionalized
+101,Timolol ,7.67,26839-75-8 ,CC(C)(C) NC[C@H] (O)COc1nsnc1N1CCOCC1 ,10,,https://doi.org/10.1016/j.jhazmat.2013.02.035,,diol,Polyfunctional / highly functionalized
+102,"1,4-diazabicyclo [2.2.2] octane ",8.45,280-57-9 ,C1CN2CCN1CC2 ,8,,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,,halogeneted,Halogenated organics
+103,imidazole ,7.57,288-32-4 ,c1c[nH]cn1 ,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,,halogeneted,Halogenated organics
+104,imidazole ,7.53,288-32-4 ,c1c[nH]cn1 ,7,,https://doi.org/10.1021/acs.est.1c01712,,halogeneted,Halogenated organics
+105,2-benzylphenol ,7.64,28994-41-4 ,Oc1ccccc1Cc1ccccc1 ,11,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+106,Chlorpyrifos ,6.28,2921-88-2 ,CCOP(=S) (OCC)Oc1nc (Cl)c(Cl)cc1Cl ,8.51,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+107,zidovudine ,4.83,30516-87-1 ,Cc1cn([CH]2C[CH] (N=[N+] =[N-]) [CH] (CO)O2) c(=O) [nH]c1=O ,7,,https://doi.org/10.1016/j.chemosphere.2015.08.033,,cyclo,Aromatic & PAHs
+108,Carnosine ,8.11,305-84-0 ,NCCC(=O) N[C@@H] (Cc1c[nH]cn1) C(=O) O ,7.4,,https://doi.org/10.1016/j.jphotochem.2007.01.005,,halogeneted,Halogenated organics
+109,Tobramycin ,5.13,32986-56-4 ,NC[C@H]1O[C@H] (O[C@H]2[C@H] (O)[C@@H] ···O ,7,,https://doi.org/10.1021/acs.est.5b05234,,halogeneted,Halogenated organics
+110,diuron ,5.46,330-54-1 ,CN(C)C(=O) Nc1ccc (Cl)c(Cl)c1 ,8.51,,https://doi.org/10.1021/es3030808,,cyclo,Aromatic & PAHs
+111,isoproturon ,6.0,34123-59-6 ,CC(C)c1ccc (NC(=O) N(C)C) cc1 ,8.51,,https://doi.org/10.1021/es3030808,,cyclo,Aromatic & PAHs
+112,Acetochlor ,5.72,34256-82-1 ,CCOCN(C(=O) CCl) c1c(C)cccc1CC ,8.51,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+113,Dithiothreitol ,6.18,3483/12/3,O[C@@H] (CS)[C@@H] (O)CS ,7.4,,https://doi.org/10.1016/1011-1344(91)80008-6,,"sulfide, disulfide",Sulfur-containing organics
+114,Diethylsulfide ,7.26,352-93-2 ,CCSCC ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,"sulfide, disulfide",Sulfur-containing organics
+115,cis-3-hexenyl ,6.59,3681-71-8 ,CC/C=C\CCOC(C)=O ,5.1,,https://doi.org/10.1021/es503656m,,alcohol,Oxygenated organics
+116,4-fluorophenol ,8.54,371-41-5 ,Oc1ccc(F)cc1 ,11,,https://doi.org/10.1139/v93-160,,alcohol,Oxygenated organics
+117,Amikacin ,5.91,37517-28-5 ,NCC[C@H] ···[C@@H] (O)[C@H] (N)[C@H]1O ,7,,https://doi.org/10.1021/acs.est.5b05234,,halogeneted,Halogenated organics
+118,glycyl-tyrosine ,7.28,39630-46-1 ,NCC(=O) N[C@@H] (Cc1ccc(O)cc1) C(=O) OO ,7,,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+119,Penciclovir ,6.41,39809-25-1 ,Nc1nc2c(ncn2CCC(CO)CO) c(=O) [nH]1 ,5,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+120,Penciclovir ,6.6,39809-25-1 ,Nc1nc2c(ncn2CCC(CO)CO) c(=O) [nH]1 ,7,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+121,Penciclovir ,7.18,39809-25-1 ,Nc1nc2c(ncn2CCC(CO)CO) c(=O) [nH]1 ,9,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+122,Penciclovir ,7.4,39809-25-1 ,Nc1nc2c(ncn2CCC(CO)CO) c(=O) [nH]1 ,10,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+123,MethyI jasmonate ,6.78,39924-52-2 ,CC/C=C/C[C@@H]1C(=O) CC[C@H]1CC(=O) OC ,5.1,,https://doi.org/10.1021/es503656m,,alcohol,Oxygenated organics
+124,"7,8-dihydrofolic acid ",8.72,4033-27-6 ,Nc1nc2c(c(=O) [nH]1) N=C···(CCC(=O) O) C(=O) O) cc1) CN2 ,7,,https://doi.org/10.1021/jp071278h,,cyclo,Aromatic & PAHs
+125,"2-dimethylamino-5,6- dimethylpyrimidin-4-ol",7.64,40778-16-3,Cc1nc(N(C)C) [nH]c(=O) c1C ,4,,https://doi.org/10.1002/ps.2780140415,,cyclo,Aromatic & PAHs
+126,"2-dimethylamino-5,6- dimethylpyrimidin-4-ol",7.91,40778-16-3,Cc1nc(N(C)C) [nH]c(=O) c1C ,7,,https://doi.org/10.1002/ps.2780140415,,cyclo,Aromatic & PAHs
+127,"2-dimethylamino-5,6- dimethylpyrimidin-4-ol",8.15,40778-16-3,Cc1nc(N(C)C) [nH]c(=O) c1C ,9,,https://doi.org/10.1002/ps.2780140415,,cyclo,Aromatic & PAHs
+128,sinapaldehyde ,7.26,4206-58-0 ,COc1cc(/C=C/C=O) cc (OC)c1O ,5,,https://doi.org/10.1016/j.watres.2023.120586,,alcohol,Oxygenated organics
+129,genistein ,7.55,446-72-0 ,O=c1c(-c2ccc(O)cc2) coc2cc(O)cc(O)c12 ,5,,https://doi.org/10.1021/es300041f,,alcohol,Oxygenated organics
+130,genistein ,7.49,446-72-0 ,O=c1c(-c2ccc(O)cc2) coc2cc(O)cc(O)c12 ,7,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+131,genistein ,7.51,446-72-0 ,O=c1c(-c2ccc(O)cc2) coc2cc(O)cc(O)c12 ,8,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+132,genistein ,8.04,446-72-0 ,O=c1c(-c2ccc(O)cc2) coc2cc(O)cc(O)c12 ,10,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+133,capsanthin ,9.66,465-42-9 ,CC1=C···(O)CC2(C)C) C(C)(C) C[C@@H] (O)C1 ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+134,astaxanthin ,9.85,472-61-7 ,CC1=C···C[C@H] (O)C1=O ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+135,β-cryptoxanthin ,9.64,472-70-8 ,CC1=C(/C=C/C(C)···(O)CC2(C)C) C(C)(C) CCC1 ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+136,Microcystin HtyR ,7.98,478001-08-0 ,[H]/N=C(\N) NCCC···[C@H] (C(=O) O) NC1=O ,11.6,,https://doi.org/10.1021/acs.est.1c04194,,halogeneted,Halogenated organics
+137,4-methoxy-indole ,8.14,4837-90-5 ,COc1cccc2[nH]ccc12 ,6,,https://doi.org/10.1039/b203359c,,alcohol,Oxygenated organics
+138,diadzein ,7.26,486-66-8 ,O=c1c(-c2ccc(O)cc2) coc2cc(O)ccc12 ,5,,https://doi.org/10.1021/es300041f,,alcohol,Oxygenated organics
+139,biochanin A ,7.23,491-80-5 ,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O) cc1 ,7,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+140,biochanin A ,7.83,491-80-5 ,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O) cc1 ,8,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+141,biochanin A ,7.95,491-80-5 ,COc1ccc(-c2coc3cc(O)cc(O)c3c2=O) cc1 ,10,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+142,ascorbic acid ,8.15,50-81-7 ,O=C1O[C@H] ([C@@H] (O)CO) C(O)=C1O ,7.4,,https://doi.org/10.1016/j.jphotochem.2004.03.029,,diol,Polyfunctional / highly functionalized
+143,ascorbic acid ,7.46,50-81-7 ,O=C1O[C@H] ([C@@H] (O)CO) C(O)=C1O ,3.56,,https://doi.org/10.1016/j.jphotochem.2004.03.029,,diol,Polyfunctional / highly functionalized
+144,benzimidazole ,6.4,51-17-2 ,c1ccc2[nH]cnc2c1 ,6,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,cyclo,Aromatic & PAHs
+145,Metolachlor ,5.64,51218-45-2 ,CCc1cccc(C)c1N(C(=O) CCl) [C@@H] (C)COC ,8.51,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+146,histamine ,7.94,51-45-6 ,NCCc1cnc[nH]1 ,7.7,,https://doi.org/10.1071/EN17155,,halogeneted,Halogenated organics
+147,histamine ,7.45,51-45-6 ,NCCc1cnc[nH]1 ,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,,halogeneted,Halogenated organics
+148,Cimetidine ,8.4,51481-61-9 ,C/N=C(/NC#N) NCCSCc1[nH]cnc1C ,10.2,,https://doi.org/10.1021/es0340782,,"sulfide, disulfide",Sulfur-containing organics
+149,Cimetidine ,8.34,51481-61-9 ,C/N=C(/NC#N) NCCSCc1[nH]cnc1C ,8.2,,https://doi.org/10.1021/es0340782,,"sulfide, disulfide",Sulfur-containing organics
+150,Cimetidine ,7.96,51481-61-9 ,C/N=C(/NC#N) NCCSCc1[nH]cnc1C ,6.9,,https://doi.org/10.1021/es0340782,,"sulfide, disulfide",Sulfur-containing organics
+151,Cimetidine ,6.52,51481-61-9 ,C/N=C(/NC#N) NCCSCc1[nH]cnc1C ,4.2,,https://doi.org/10.1021/es0340782,,"sulfide, disulfide",Sulfur-containing organics
+152,dopamine ,6.94,51-61-6 ,NCCc1ccc(O)c(O)c1 ,6,,https://doi.org/10.1111/j.1751-1097.2008.00320.x,,benzene,Aromatic & PAHs
+153,tyramine ,8.45,51-67-2 ,NCCc1ccc(O)cc1 ,10,,https://doi.org/10.1007/bf00805805,,benzene,Aromatic & PAHs
+154,Pyridoxamine dihydrochloride ,5.1,524-36-7 ,Cc1ncc (CO)c(CN)c1OClCl ,8.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+155,Pyridoxamine dihydrochloride ,4.92,524-36-7 ,Cc1ncc (CO)c(CN)c1OClCl ,7.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+156,Pyridoxamine dihydrochloride ,4.69,524-36-7 ,Cc1ncc (CO)c(CN)c1OClCl ,6.3,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+157,"2,4,6-trimethylphenol ",6.51,527-60-6 ,Cc1cc(C)c(O)c(C)c1 ,3,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+158,"2,4,6-trimethylphenol ",8.78,527-60-6 ,Cc1cc(C)c(O)c(C)c1 ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+159,Cysteine ,6.92,52-90-4 ,N[C@@H] (CS)C(=O) O ,7.4,,https://doi.org/10.1016/1011-1344(91)80008-6,,halogeneted,Halogenated organics
+160,Flufenamic acid ,7.11,530-78-9 ,O=C(O)c1ccccc1Nc1cccc(C(F)(F) F) c1 ,7.5,,https://doi.org/10.1039/c7em00079k,,benzene,Aromatic & PAHs
+161,trolox ,8.34,53188-07-1 ,Cc1c(C)c2c(c(C)c1O) CC [C@] (C)(C(=O) O) O2 ,6,,https://doi.org/10.1016/1011-1344(95)07137-Q,,diol,Polyfunctional / highly functionalized
+162,trolox ,8.64,53188-07-1 ,Cc1c(C)c2c(c(C)c1O) CC[C@] (C)(C(=O) O) O2 ,7.6,,https://doi.org/10.1021/jp990838c,,diol,Polyfunctional / highly functionalized
+163,trolox ,8.78,53188-07-1 ,Cc1c(C)c2c(c(C)c1O) CC[C@] (C) (C(=O) O) O2 ,12,,https://doi.org/10.1016/1011-1344(95)07137-Q,,diol,Polyfunctional / highly functionalized
+164,equol ,7.23,531-95-3 ,Oc1ccc([C@H]2COc3cc(O)ccc3C2) cc1 ,7,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+165,equol ,7.6,531-95-3 ,Oc1ccc([C@H]2COc3cc(O)ccc3C2) cc1 ,8,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+166,equol ,8.49,531-95-3 ,Oc1ccc([C@H]2COc3cc(O)ccc3C2) cc1 ,10,,https://doi.org/10.1021/es301205a,,alcohol,Oxygenated organics
+167,sesamol ,7.98,533-31-3 ,Oc1ccc2c(c1) OCO2 ,3,,https://doi.org/10.1039/C6EM00580B,,diol,Polyfunctional / highly functionalized
+168,sesamol ,9.29,533-31-3 ,Oc1ccc2c(c1) OCO2 ,12,,https://doi.org/10.1039/C6EM00580B,,diol,Polyfunctional / highly functionalized
+169,2-methylfuran ,7.88,534-22-5 ,Cc1ccco1 ,7,,https://doi.org/10.1021/jp990838c,,alkane,Aliphatic hydrocarbons
+170,Indomethacin ,7.43,53-86-1 ,COc1ccc2c(c1) c (CC(=O) O) c(C)n2C(=O) c1ccc (Cl)cc1 ,7,,https://doi.org/10.1111/php.12114,,alcohol,Oxygenated organics
+171,4-iodophenol ,7.9,540-38-5 ,Oc1ccc(I)cc1 ,11,,https://doi.org/10.1139/v93-160,,alcohol,Oxygenated organics
+172,9-Methylguanine ,7.66,5502-78-3 ,Cn1cnc2c(=O) [nH]c(N)nc21 ,10,,https://doi.org/10.1021/acs.jpcb.9b08796,,cyclo,Aromatic & PAHs
+173,9-Methylguanine ,6.08,5502-78-3 ,Cn1cnc2c(=O) [nH]c(N)nc21 ,7,,https://doi.org/10.1021/acs.jpcb.9b08796,,cyclo,Aromatic & PAHs
+174,3-nitrophenol ,6.47,554-84-7 ,O=[N+] ([O-]) c1cccc(O)c1 ,3,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+175,3-nitrophenol ,7.61,554-84-7 ,O=[N+] ([O-]) c1cccc(O)c1 ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+176,Glycyl-L-methionine ,7.11,554-94-9 ,CSCC[C@H] (NC(=O) CN) C(=O) O ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,"sulfide, disulfide",Sulfur-containing organics
+177,"2,3-Dimethyl-2-butene ",8.04,563-79-1 ,CC(C)=C(C)C ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,alkane,Aliphatic hydrocarbons
+178,alanine ,6.3,56-41-7 ,C[C@H] (N)C(=O) O ,8.4,,https://doi.org/10.1071/EN17155,,halogeneted,Halogenated organics
+179,alanine ,7.48,56-41-7 ,C[C@H] (N)C(=O) O ,10.6,,https://doi.org/10.1080/02772249209357813,,halogeneted,Halogenated organics
+180,"2,6-dimethylphenol ",6.71,576-26-1 ,Cc1cccc(C)c1O ,3,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+181,"2,6-dimethylphenol ",8.02,576-26-1 ,Cc1cccc(C)c1O ,12,,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+182,Sulfamethazine ,6.78,57-68-1 ,Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1 ,8,,https://doi.org/10.1021/es048331p,,benzene,Aromatic & PAHs
+183,Streptomycin ,5.2,57-92-1 ,[H]/N=C(\N) N···[C@@H] (N/C(N)=N/[H]) [C@@H]1O ,7,,https://doi.org/10.1021/acs.est.5b05234,,halogeneted,Halogenated organics
+184,Pyridoxine hydrochloride ,4.89,58-56-0 ,Cc1ncc (CO)c(CO)c1O.Cl ,8.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+185,Pyridoxine hydrochloride ,4.77,58-56-0 ,Cc1ncc (CO)c(CO)c1O.Cl ,7.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+186,Pyridoxine hydrochloride ,4.71,58-56-0 ,Cc1ncc (CO)c(CO)c1O.Cl ,6.3,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+187,K anamycin ,5.84,1959/1/8,NC[C@H]1O···[C@H] (O)[C@@H] (O)[C@@H] O ,7,,https://doi.org/10.1021/acs.est.5b05234,,halogeneted,Halogenated organics
+188,α-tocopherol ,8.5,1959/2/9,Ccc(C)cc(c(C)cO) CC[C] (C)(CCC[CH] (C)CC[CH] (C)CCCC(C)C) O ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,alkane,Aliphatic hydrocarbons
+189,Acyclovir ,6.34,59277-89-3 ,Nc1nc2c(ncn2COCCO) c(=O) [nH]1 ,5,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+190,Acyclovir ,6.54,59277-89-3 ,Nc1nc2c(ncn2COCCO) c(=O) [nH]1 ,7,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+191,Acyclovir ,7.2,59277-89-3 ,Nc1nc2c(ncn2COCCO) c(=O) [nH]1 ,9,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+192,Acyclovir ,7.2,59277-89-3 ,Nc1nc2c(ncn2COCCO) c(=O) [nH]1 ,10,,https://doi.org/10.1002/etc.3238,,halogeneted,Halogenated organics
+193,Met hionine ,6.93,59-51-8 ,CSCC[C@H] (N)C(=O) O ,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,,"sulfide, disulfide",Sulfur-containing organics
+194,N-methylthiourea ,6.3,598-52-7 ,CNC(N)=S ,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,,"sulfide, disulfide",Sulfur-containing organics
+195,Tyrosine ,8.12,60-18-4 ,N[C@@H] (Cc1ccc(O)cc1) C(=O) O ,11.6,,https://doi.org/10.1021/acs.est.1c04194,,halogeneted,Halogenated organics
+196,Tyrosine ,6.94,60-18-4 ,N[C@@H] (Cc1ccc(O)cc1) C(=O) O ,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+197,Tyrosine ,7.04,60-18-4 ,N[C@@H] (Cc1ccc(O)cc1) C(=O) O ,5.1,,https://doi.org/10.1021/es503656m,,halogeneted,Halogenated organics
+198,Tyrosine ,7.43,60-18-4 ,N[C@@H] (Cc1ccc(O)cc1) C(=O) O ,7,,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+199,Propiconazole ,6.59,60207-90-1 ,CCC[C@@H]1CO[C@@] (Cn2cncn2) (c2ccc (Cl)cc2Cl) O1 ,8.51,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+200,2’-HO-BDE-7 ,6.63,602326-09-0 ,Oc1ccccc1Oc1ccc (Br)cc1Br ,7,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,diol,Polyfunctional / highly functionalized
+201,2’-HO-BDE-7 ,8.35,602326-09-0 ,Oc1ccccc1Oc1ccc (Br)cc1Br ,10,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,diol,Polyfunctional / highly functionalized
+202,4’-HO-BDE-17 ,6.9,602326-21-6 ,Oc1cc (Oc2ccc (Br)cc2Br) c(Br)c1 ,7,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+203,4’-HO-BDE-90 ,6.48,602326-24-9 ,Oc1c(Br)cc (Oc2ccc (Br)cc2Br) c(Br)c1Br ,4,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+204,Tetracycline ,8.11,60-54-8 ,CN(C)···(=O) c4c(O)cccc4[C@@] (C)(O) [C@H]3C[C@@H]12 ,11,,https://doi.org/10.1016/S1011-1344(98)00104-3,,halogeneted,Halogenated organics
+205,4-hydroxyquinoline ,7.41,611-36-9 ,Oc1ccnc2ccccc12 ,11,,https://doi.org/10.1016/S1010-6030(98)00394-3,,alcohol,Oxygenated organics
+206,"6,7-dimethylpterin ",7.0,611-55-2 ,Cc1nc2nc(N)[nH]c(=O) c2nc1C ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+207,amp ,6.94,61-19-8 ,Nc1ncnc2c1ncn2[C@@H]1O[CH] (COP (=O O) O) [CH] (O)[C@H]1O ,7,,https://doi.org/10.1021/acsestwater.3c00244,,diol,Polyfunctional / highly functionalized
+208,amp ,7.08,61-19-8 ,Nc1ncnc2c1ncn2[CH]1O[C@H] (COP(=O) (O)O) [CH] (O)[C@H]1O ,8.5,,https://doi.org/10.1021/acsestwater.3c00244,,diol,Polyfunctional / highly functionalized
+209,2-methylbenzimidazole ,6.3,615-15-6 ,Cc1nc2ccccc2[nH]1 ,6,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,benzene,Aromatic & PAHs
+210,2-hydroxybenzimidazole ,6.36,615-16-7 ,O=c1[nH]c2ccccc2[nH]1 ,6,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,benzene,Aromatic & PAHs
+211,2-hydroxybenzimidazole ,6.59,615-16-7 ,O=c1[nH]c2ccccc2[nH]1 ,10,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,benzene,Aromatic & PAHs
+212,2-hydroxybenzimidazole ,7.04,615-16-7 ,O=c1[nH]c2ccccc2[nH]1 ,12,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,benzene,Aromatic & PAHs
+213,Mefenamic acid ,7.2,61-68-7 ,Cc1cccc (Nc2ccccc2C(=O) O) c1C ,7.5,,https://doi.org/10.1039/c7em00079k,,cyclo,Aromatic & PAHs
+214,N-acetyl-L-cysteine ,5.78,616-91-1 ,CC(=O) N [C@@H] (CS)C(=O) O ,7.4,,https://doi.org/10.1016/1011-1344(91)80008-6,,alkane,Aliphatic hydrocarbons
+215,Paroxetine ,8.07,61869-08-7 ,Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c (c2) OCO3) cc1 ,7,,https://doi.org/10.1016/j.scitotenv.2016.12.008,,alcohol,Oxygenated organics
+216,Dimethylfuran ,8.91,625-86-5 ,Cc1ccc(C)o1 ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,alkane,Aliphatic hydrocarbons
+217,Carbaryl ,5.47,63-25-2 ,CNC(=O) Oc1cccc2ccccc12 ,6.8,,https://doi.org/10.1016/j.chemosphere.2019.125464,,alcohol,Oxygenated organics
+218,Cefotaxime ,6.88,63527-52-6 ,CO/N=C(\C(=O) N [C@@H]1C···CS[C@H]12) c1csc(N)n1 ,7.4,,https://doi.org/10.1016/j.jphotobiol.2014.11.004,,"sulfide, disulfide",Sulfur-containing organics
+219,methionine ,7.32,63-68-3 ,CSCC[C@H] (N)C(=O) O ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,"sulfide, disulfide",Sulfur-containing organics
+220,methionine ,7.45,63-68-3 ,CSCC[C@H] (N)C(=O) O ,10.6,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,"sulfide, disulfide",Sulfur-containing organics
+221,Meclofenamic acid ,7.45,644-62-2 ,Cc1ccc (Cl)c(Nc2ccccc2C(=O) O) c1Cl ,7.5,,https://doi.org/10.1039/c7em00079k,,cyclo,Aromatic & PAHs
+222,Pyridoxal hydrochloride ,4.97,65-22-5 ,Cc1ncc (CO)c(C=O) c1OCl ,8.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+223,Pyridoxal hydrochloride ,4.75,65-22-5 ,Cc1ncc (CO)c(C=O) c1OCl ,7.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+224,Pyridoxal hydrochloride ,4.58,65-22-5 ,Cc1ncc (CO)c(C=O) c1OCl ,6.3,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,alcohol,Oxygenated organics
+225,Uracil ,7.18,66-22-8 ,O=c1cc[nH]c(=O) [nH]1 ,11,,https://doi.org/10.1562/2006-07-25-ra-982,,halogeneted,Halogenated organics
+226,Uracil ,7.68,66-22-8 ,O=c1cc[nH]c(=O) [nH]1 ,14,,https://doi.org/10.1562/2006-07-25-ra-982,,halogeneted,Halogenated organics
+227,Ranitidine ,7.81,66357-35-5 ,CN/C(=C\[N+] (=O) [O]) NCCSCc1ccc (CN(C)C) o ,9.8,,https://doi.org/10.1021/es0340782,,"sulfide, disulfide",Sulfur-containing organics
+228,2-chloro-3-hydroxypyridine ,7.08,6636-78-8 ,Oc1cccnc1Cl ,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,alcohol,Oxygenated organics
+229,L-tyrosyl-glycine ,7.63,673-08-5 ,N[C@@H] (Cc1ccc(O)cc1) C(=O) NCC(=O) O ,11.5,,https://doi.org/10.1007/bf00805805,,halogeneted,Halogenated organics
+230,"7,8-dihydrobiopterin ",8.49,6779-87-9 ,C[C@H] (O)[C@H] (O)C1=Nc2c(nc(N)[nH]c2=O) NC1 ,7,,https://doi.org/10.1021/jp071278h,,cyclo,Aromatic & PAHs
+231,Sulfadiazine ,6.95,68-35-9 ,Nc1ccc(S(=O) (=O) Nc2ncccn2) cc1 ,8,,https://doi.org/10.1021/es048331p,,cyclo,Aromatic & PAHs
+232,Sulfadiazine ,6.79,68-35-9 ,Nc1ccc(S(=O) (=O) Nc2ncccn2) cc1 ,7,,https://doi.org/10.1021/es048331p,,cyclo,Aromatic & PAHs
+233,hypoxanthine ,6.48,68-94-0 ,O=c1[nH]cnc2[nH]cnc12 ,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+234,hypoxanthine ,6.7,68-94-0 ,O=c1[nH]cnc2[nH]cnc12 ,9,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+235,hypoxanthine ,7.3,68-94-0 ,O=c1[nH]cnc2[nH]cnc12 ,12,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+236,xanthine ,7.58,69-89-6 ,O=c1[nH]c(=O) c2nc[nH]c2[nH]1 ,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+237,xanthine ,7.57,69-89-6 ,O=c1[nH]c(=O) c2nc[nH]c2[nH]1 ,9,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+238,xanthine ,7.6,69-89-6 ,O=c1[nH]c(=O) c2nc[nH]c2[nH]1 ,12,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+239,uric acid ,7.0,69-93-2 ,O=c1[nH]c(=O) c2[nH]c(=O) [nH]c2[nH]1 ,5,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+240,uric acid ,8.08,69-93-2 ,O=c1[nH]c(=O) c2[nH]c(=O) [nH]c2[nH]1 ,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+241,uric acid ,8.26,69-93-2 ,O=c1[nH]c(=O) c2[nH]c(=O) [nH]c2[nH]1 ,9,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+242,uric acid ,8.72,69-93-2 ,O=c1[nH]c(=O) c2[nH]c(=O) [nH]c2[nH]1 ,12,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,cyclo,Aromatic & PAHs
+243,6-methylpterin ,6.69,708-75-8 ,Cc1cnc2nc(N)[nH]c(=O) c2n1 ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+244,histidine ,7.95,71-00-1 ,N[C@@H] (Cc1c[nH]cn1) C(=O) O ,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+245,histidine ,7.76,71-00-1 ,N[C@@H] (Cc1c[nH]cn1) C(=O) O ,10.6,,https://doi.org/10.1080/02772249209357813,,halogeneted,Halogenated organics
+246,histidine ,7.89,71-00-1 ,N[C@@H] (Cc1c[nH]cn1) C(=O) O ,7.4,,https://doi.org/10.1016/j.jphotochem.2007.01.005,,halogeneted,Halogenated organics
+247,6-hydroxymethylpterin ,6.08,712-29-8 ,Nc1nc2ncc (CO)nc2c(=O) [nH]1 ,10.5,,https://doi.org/10.1562/2006-09-15-ra-1041,,cyclo,Aromatic & PAHs
+248,3-cyanopyrrole ,7.53,7126-38-7 ,N#Cc1cc[nH]c1 ,7,,https://doi.org/10.1021/acs.est.9b03948,,cyclo,Aromatic & PAHs
+249,"9,10-anthracenedipropionic acid ",8.08,71367-28-7 ,O=C(O)CCc1c2ccccc2c(CCC(=O) O) c2ccccc12 ,6.8,,https://doi.org/10.1016/1010-6030(92)85132-E,,benzene,Aromatic & PAHs
+250,Sulfathiazole ,7.72,72-14-0 ,Nc1ccc(S(=O) (=O) Nc2nccs2) cc1 ,12,,https://doi.org/10.1016/S0143-7208(00)00010-3,,"sulfide, disulfide",Sulfur-containing organics
+251,β-carotene ,9.63,7235-40-7 ,CC1···(C)/C=C/C2=C(C)CCCC2(C)C) C(C)(C) CCC1 ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+252,2-hydroxypyridine ,7.3,72762-00-6 ,Oc1ccccn1 ,11,,https://doi.org/10.1016/S1010-6030(98)00394-3,,alcohol,Oxygenated organics
+253,Sulfamoxole ,7.84,729-99-7 ,Cc1nc (NS(=O) (=O) c2ccc(N)cc2) oc1C ,10.2,,https://doi.org/10.1021/es0353053,,alcohol,Oxygenated organics
+254,l-Tryptophan ,8.51,73-22-3 ,N[C@@H] (Cc1c[nH]c2ccccc12) C(=O) O ,7.4,,https://doi.org/10.1016/j.jphotochem.2007.01.005,,halogeneted,Halogenated organics
+255,Trimethoprim ,6.51,738-70-5 ,COc1cc (Cc2cnc(N)nc2N) cc (OC)c1OC ,6,,https://doi.org/10.1016/j.watres.2011.12.052,,diol,Polyfunctional / highly functionalized
+256,α-carotene ,9.76,7488-99-5 ,CC1···C/C=C/C=C(C)/C=C/C=C(C)/C=C/C1=C(C)CCCC1(C)C ,7.4,,https://doi.org/10.1021/acs.jafc.6b04329,,cyclo,Aromatic & PAHs
+257,tetrabromobisphenol ,8.18,79-94-7 ,CC(C) (c1cc (Br)c(O)c(Br)c1) c1cc (Br)c(O)c(Br)c1 ,12,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,cyclo,Aromatic & PAHs
+258,Bisphenol A ,8.0,1980/5/7,CC(C)(c1ccc(O)cc1) c1ccc(O)cc1 ,10,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,benzene,Aromatic & PAHs
+259,Bisphenol A ,8.3,1980/5/7,CC(C)(c1ccc(O)cc1) c1ccc(O)cc1 ,12,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,benzene,Aromatic & PAHs
+260,2’-HO-BDE-123 ,6.28,80246-24-8 ,Oc1c (Oc2ccc (Br)cc2Br) cc (Br)c(Br)c1Br ,4,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+261,2’-HO-BDE-68 ,6.72,80246-25-9 ,Oc1c(Br)cc (Br)cc1Oc1ccc (Br)cc1Br ,5,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,diol,Polyfunctional / highly functionalized
+262,2’-HO-BDE-68 ,8.25,80246-25-9 ,Oc1c(Br)cc (Br)cc1Oc1ccc (Br)cc1Br ,8,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,diol,Polyfunctional / highly functionalized
+263,Sulfachloropyridazine ,6.83,80-32-0 ,Nc1ccc(S(=O) (=O) Nc2ccc (Cl)nn2) cc1 ,8,,https://doi.org/10.1021/es048331p,,cyclo,Aromatic & PAHs
+264,bisphenol Z ,6.68,843-55-0 ,Oc1ccc(C2(c3ccc(O)cc3) CCCCC2) cc1 ,3,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+265,bisphenol Z ,7.74,843-55-0 ,Oc1ccc(C2(c3ccc(O)cc3) CCCCC2) cc1 ,12,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+266,Pyridoxal 5-phosphate ,5.07,853645-22-4 ,Cc1ncc (COP(=O) (O)O) c(C=O) c1O ,8.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+267,Pyridoxal 5-phosphate ,4.72,853645-22-4 ,Cc1ncc (COP(=O) (O)O) c(C=O) c1O ,7.2,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+268,Pyridoxal 5-phosphate ,4.49,853645-22-4 ,Cc1ncc (COP(=O) (O)O) c(C=O) c1O ,6.3,,https://doi.org/10.1562/0031-8655(2000)071%3C0129:sipvbp%3E2.0.co;2,,cyclo,Aromatic & PAHs
+269,"2,4,6-Trichlorophenol ",6.3,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,4.2,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+270,"2,4,6-Trichlorophenol ",6.78,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,4.8,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+271,"2,4,6-Trichlorophenol ",7.18,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,5.2,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+272,"2,4,6-Trichlorophenol ",7.41,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,5.5,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+273,"2,4,6-Trichlorophenol ",7.74,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,6,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+274,"2,4,6-Trichlorophenol ",7.98,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+275,"2,4,6-Trichlorophenol ",8.08,1988/6/2,Oc1c(Cl)cc (Cl)cc1Cl ,9,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+276,2-nitrophenol ,7.2,88-75-5 ,O=[N+] ([O-]) c1ccccc1O ,10,,https://doi.org/10.1002/prac.19943360310,,benzene,Aromatic & PAHs
+277,2-nitrophenol ,7.65,88-75-5 ,O=[N+] ([O-]) c1ccccc1O ,12,,https://doi.org/10.1002/prac.19943360310,,benzene,Aromatic & PAHs
+278,2-nitro-4-chlorophenol ,7.33,89-64-5 ,O=[N+] ([O-]) c1cc (Cl)ccc1O ,8,,https://doi.org/10.1016/j.scitotenv.2012.03.034,,cyclo,Aromatic & PAHs
+279,1-hydroxynaphthalene ,7.32,90-15-3 ,Oc1cccc2ccccc12 ,7,,https://doi.org/10.1016/S1010-6030(99)00172-0,,alcohol,Oxygenated organics
+280,1-hydroxynaphthalene ,8.59,90-15-3 ,Oc1cccc2ccccc12 ,11,,https://doi.org/10.1016/S1010-6030(99)00172-0,,alcohol,Oxygenated organics
+281,2-deoxyguanosine-5-monophosphate anion,7.23,902-04-5,Nc1nc2c(ncn2[C@H]2C[C@H] (O)[C@@H] (COP(=O) (O)O) O2) c(=O) [nH]1,5.5,,https://doi.org/10.1021/ja075367j,,halogeneted,Halogenated organics
+282,2-deoxyguanosine-5-monophosphate anion,7.98,902-04-5,Nc1nc2c(ncn2[C@H]2C[C@H] (O)[C@@H] (COP(=O) (O)O) O2) c(=O) [nH]1,10.5,,https://doi.org/10.1021/ja075367j,,halogeneted,Halogenated organics
+283,2-hydroxybiphenyl ,7.64,90-43-7 ,Oc1ccccc1-c1ccccc1 ,11,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+284,2-hydroxybiphenyl ,6.77,90-43-7 ,Oc1ccccc1-c1ccccc1 ,10,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+285,2-hydroxybiphenyl ,6.51,90-43-7 ,Oc1ccccc1-c1ccccc1 ,9,,https://doi.org/10.1016/0045-6535(93)90113-J,,alcohol,Oxygenated organics
+286,"2,6-Dimethoxyphenol ",7.56,1991/10/1,COc1cccc (OC)c1O ,12,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+287,4-phenylphenol ,7.6,92-69-3 ,Oc1ccc(-c2ccccc2) cc1 ,11,,https://doi.org/10.1139/v93-160,,alcohol,Oxygenated organics
+288,"1,2-dihydro-5-nitro-3H-1,2,4-triazol- 3-one",6.29,932-64-9,O=c1nc([N+] (=O) [O-]) [nH][nH]1 ,8.5,,https://doi.org/10.1021/acsestwater.2c00567,,halogeneted,Halogenated organics
+289,"2,3,5-trichlorophenol ",5.17,933-78-8 ,Oc1cc (Cl)cc (Cl)c1Cl ,3,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+290,venlafaxine ,7.32,93413-69-5 ,COc1ccc([C@@H] (CN(C)C) C2(O)CCCCC2) cc1 ,6.8,,https://doi.org/10.1016/j.psep.2022.08.049,,alcohol,Oxygenated organics
+291,2-aminobenzimidazole ,6.6,934-32-7 ,Nc1nc2ccccc2[nH]1 ,6,,https://doi.org/10.1016/j.chemosphere.2006.02.057,,benzene,Aromatic & PAHs
+292,Fluvastatin ,8.21,93957-54-1 ,CC(C)n1c(/C=C/[CH] (O)C[CH] (O)CC(=O) O) c(c2ccc(F)cc2) cccccc2 ,7,,https://doi.org/10.1016/j.scitotenv.2016.12.008,,cyclo,Aromatic & PAHs
+293,benzyl-4-hydroxybenzoate ,6.34,94-18-8 ,O=C(OCc1ccccc1) c1ccc(O)cc1 ,7,,https://doi.org/10.1016/j.cej.2012.08.097,,benzene,Aromatic & PAHs
+294,benzyl-4-hydroxybenzoate ,6.8,94-18-8 ,O=C(OCc1ccccc1) c1ccc(O)cc1 ,10.8,,https://doi.org/10.1016/j.cej.2012.08.097,,benzene,Aromatic & PAHs
+295,butylparaben ,6.34,94-26-8 ,CCCCOC(=O) c1ccc(O)cc1 ,7,,https://doi.org/10.1016/j.cej.2012.08.097,,alcohol,Oxygenated organics
+296,butylparaben ,6.8,94-26-8 ,CCCCOC(=O) c1ccc(O)cc1 ,10.4,,https://doi.org/10.1016/j.cej.2012.08.097,,alcohol,Oxygenated organics
+297,2-chlorophenol ,7.23,95-57-8 ,Oc1ccccc1Cl ,11.5,,https://doi.org/10.1080/02772249009357622,,alcohol,Oxygenated organics
+298,Furfuryl Alcohol ,8.08,98-00-0 ,OCc1ccco1 ,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+299,Sertaconazole nitrate ,6.4,99592-32-2 ,Clc1ccc([C@@H] (Cn2ccnc2) O Cc2csc3c(Cl)cccc23) c(Cl)c1 ,3,,https://doi.org/10.1007/s11356-018-2555-4,,"sulfide, disulfide",Sulfur-containing organics
+300,Sertaconazole nitrate ,6.59,99592-32-2 ,Clc1ccc([C@@H] (Cn2ccnc2) O Cc2csc3c(Cl)cccc23) c(Cl)c1 ,7,,https://doi.org/10.1007/s11356-018-2555-4,,"sulfide, disulfide",Sulfur-containing organics
+301,phenolate,8.230448921,108-95-2,c1ccccc1O,,25,https://doi.org/10.1016/0045-6535(87)90004-X and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+302,2-chlorophenolate,8.204119983,29650-97-3,Clc1ccccc1O,,25,https://doi.org/10.1039/C6EM00580B and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+303,2-methoxyphenolate,8.643452676,1990/5/1,COc1ccccc1O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,alcohol,Oxygenated organics
+304,Methyl salicylate,8.204119983,	119-36-8,COC(=O)c1ccccc1O,,25,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+305,2-nitrophenolate,7.505149978,88-75-5,O=N+c1ccccc1O,,25,"https://doi.org/10.1039/C6EM00580B, https://doi.org/10.1021/es00021a011?ref=pdf,and https://doi.org/10.1016/1011-1344(90)85141-I",,benzene,Aromatic & PAHs
+306,3-chlorophenolate,8.041392685,108-43-0,Clc1cccc(O)c1,,25,"https://doi.org/10.1039/C6EM00580B, https://doi.org/10.1021/es00021a011?ref=pdf,and https://doi.org/10.1016/1011-1344(90)85141-I",,benzene,Aromatic & PAHs
+307, 3-methoxyphenolate,8.447158031,150-19-6,COc1cccc(O)c1,,25,https://doi.org/10.1039/C6EM00580B and https://doi.org/10.1021/es00021a011?ref=pdf,,alcohol,Oxygenated organics
+308,3-methylphenol,8.301029996,108-39-4,CC1=CC(=CC=C1)O,,25,https://doi.org/10.1039/C6EM00580B,342.0,alkane,Aliphatic hydrocarbons
+309,3-nitrophenolate,7.591064607,554-84-7,O=N+c1cccc(O)c1,,25,"https://doi.org/10.1039/C6EM00580B,https://doi.org/10.1021/es00021a011?ref=pdf,and https://doi.org/10.1016/1011-1344(90)85141-I",,benzene,Aromatic & PAHs
+310,4-acetylphenolate,7.380211242,99-93-4,CC(=O)c1ccc(O)cc1,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+311,4-chlorophenolate,8.041392685,106-48-9,Clc1ccc(O)cc1,,25,"https://doi.org/10.1021/es00021a011?ref=pdf, https://doi.org/10.1016/1011-1344(90)85141-I,and https://doi.org/10.1139/v93-160",,benzene,Aromatic & PAHs
+312,4-cyanophenolate,6.792391689,767-00-0,N#Cc1ccc(O)cc1,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+313,4-methoxyphenolate,8.819543936,150-76-5,COc1ccc(O)cc1,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,alcohol,Oxygenated organics
+314, 4-methylphenolate,8.556302501,106-44-5,Cc1ccc(O)cc1,,25,https://doi.org/10.1016/0045-6535(87)90004-X and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+315,4-nitrophenolate,6.612783857,100-02-7,O=N+c1ccc(O)cc1,,25,https://doi.org/10.1016/0045-6535(87)90004-X and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+316,4-tert-butylphenolate,8.556302501,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,7393.0,alkane,Aliphatic hydrocarbons
+317,"2,4-dimethylphenolate",8.544068044,105-67-9,Cc1ccc(O)c(C)c1,,25,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+318," 2,4-dichlorophenolate",8.176091259,120-83-2,Clc1ccc(O)cc1Cl,,25,https://doi.org/10.1016/0045-6535(87)90004-X and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+319,"2,6-dimethylphenolate",8.301029996,576-26-1,CC1=C(C(=CC=C1)C)O,,25,https://doi.org/10.1039/C6EM00580B,11335.0,alkane,Aliphatic hydrocarbons
+320,4-hydroxyphenolate,7.748188027,123-31-9,c1ccc(O)cc1O,,25,https://doi.org/10.1080/02772249209357813,,benzene,Aromatic & PAHs
+321,"2,6-dimethoxyphenolate",8.939519253,2486-69-7,COc1cccc(OC)c1O,,25,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+322, 3-methyl-4-chlorophenolate,8.113943352,59-50-7,Cc1ccc(O)c(Cl)c1,,25,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+323,"2,3,5-trichlorophenolate",6.633468456,933-78-8,Clc1cc(O)cc(Cl)c1Cl,,25,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+324,"2,4,6-trimethylphenolate",8.77815125,527-60-6,Cc1cc(O)cc(C)c1C,,25,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+325,"2,4,6-tribromophenolate",7.919078092,118-79-6,Brc1cc(O)cc(Br)c1Br,,25,https://doi.org/10.1039/C6EM00580B,,benzene,Aromatic & PAHs
+326,"2,4,6-trichlorophenolate",8.146128036,118-79-6,Clc1cc(O)cc(Cl)c1Cl,,25,https://doi.org/10.1016/0045-6535(87)90004-X and https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+327,4-bromophenolate,8.176091259,106-41-2,Brc1ccc(O)cc1,,25,https://doi.org/10.1002/prac.19943360310,,benzene,Aromatic & PAHs
+328,"2,6-dimethyl-4-bromophenolate",8.591064607,2374/5/2,Cc1cc(Br)cc(O)c1C,,25,https://doi.org/10.1002/prac.19943360310,,benzene,Aromatic & PAHs
+329," 2,4-dinitrophenolate",5.612783857,51-28-5,O=N+c1ccc(O)c(N+=O)c1,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+330,4-fluorophenolate,8.544068044,371-41-5,Fc1ccc(O)cc1,,25,https://doi.org/10.1139/v93-160,,benzene,Aromatic & PAHs
+331,2-nitro-4-chlorophenolate,7.322219295,89-64-5,Clc1ccc(O)c(N+=O)c1,,25,https://doi.org/10.1016/j.scitotenv.2012.03.034,,benzene,Aromatic & PAHs
+332," 4,6-dinitro-2-methylphenolate",5.113943352,534-52-1,Cc1ccc(O)c(N+=O)c(N+=O)c1,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,cyclo,Aromatic & PAHs
+333,"2,6-dinitro-4- methylphenolate",7.146128036,609-93-8,Cc1cc(N+=O)cc(O)c1N+=O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,benzene,Aromatic & PAHs
+334,tyrosine,7.716003344,60-18-4,C1=CC(=CC=C1CC(C(=O)O)N)O,,25,https://doi.org/10.1016/1011-1344(91)80212-Z,1153.0,halogeneted,Halogenated organics
+335,glycyl-tyrosine,7.278753601,658-79-7,NCC(=O)NC@@HC(=O)O,,25,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+336,glycyl-tyrosyl-alanine,8.0,112898-27,CC@HC(=O)O,,25,https://doi.org/10.1007/BF00805805,,alkane,Aliphatic hydrocarbons
+337,tyrosyl-glycine,7.633468456,673-08-5,NC@@HC(=O)NCC(=O)O,,25,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+338,tyramine,8.361727836,51-67-2,NCCc1ccc(O)cc1,,25,https://doi.org/10.1111/j.1751-1097.1977.tb07461.x,,benzene,Aromatic & PAHs
+339,phenol,6.897627091,108-95-2,C1=CC=C(C=C1)O,,25,"https://doi.org/10.1021/es00021a011?ref=pdf,https://doi.org/10.1016/0045-6535(93)90113-J,and https://doi.org/10.1252/jcej.15.368",996.0,halogeneted,Halogenated organics
+340,2-chlorophenol,6.959041392,95-57-8,C1=CC=C(C(=C1)O)Cl,,25,https://doi.org/10.1021/es00021a011?ref=pdf,7245.0,halogeneted,Halogenated organics
+341,2-methoxyphenol,6.77815125,1990/5/1,COC1=CC=CC=C1O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,460.0,alcohol,Oxygenated organics
+342,2-methyl ester phenol,6.301029996,119-36-8,COC(=O)C1=CC=CC=C1O,,25,https://doi.org/10.1016/0045-6535(87)90004-X,4133.0,alcohol,Oxygenated organics
+343,2-nitrophenol,6.113943352,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,6947.0,halogeneted,Halogenated organics
+344, 3-chlorophenol,6.51851394,108-43-0,C1=CC(=CC(=C1)Cl)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,7933.0,halogeneted,Halogenated organics
+345,3-methoxyphenol,7.113943352,150-19-6,COC1=CC=CC(=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,9007.0,alcohol,Oxygenated organics
+346,3-methylphenol,7.255272505,108-39-4,CC1=CC(=CC=C1)O,,25,https://doi.org/10.1039/C6EM00580B,342.0,alkane,Aliphatic hydrocarbons
+347,"1,3-benzenediol-4-chloro",7.322219295,95-88-5,Clc1ccc(O)c(O)c1,,25,https://doi.org/10.1016/0045-6535(93)90113-J,,benzene,Aromatic & PAHs
+348," 1,4-benzenediol-chloro",7.230448921,615-67-8,C1=CC(=C(C=C1O)Cl)O,,25,https://doi.org/10.1016/0045-6535(93)90113-J,301.0,halogeneted,Halogenated organics
+349,"1,3-benzenediol",7.301029996,108-46-3,C1=CC(=CC(=C1)O)O,,25,https://doi.org/10.1016/0045-6535(93)90113-J,5054.0,halogeneted,Halogenated organics
+350,3-nitrophenol,6.447158031,554-84-7,C1=CC(=CC(=C1)O)[N+](=O)[O-],,25,https://doi.org/10.1039/C6EM00580B,11137.0,halogeneted,Halogenated organics
+351,"1,4-dihydroxybenzene",7.579783597,123-31-9,C1=CC(=CC=C1O)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,785.0,halogeneted,Halogenated organics
+352,4-acetylphenol,6.176091259,99-93-4,CC(=O)C1=CC=C(C=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,7469.0,alkane,Aliphatic hydrocarbons
+353,4-chlorophenol,6.77815125,106-48-9,C1=CC(=CC=C1O)Cl,,25,https://doi.org/10.1021/es00021a011?ref=pdf,4684.0,halogeneted,Halogenated organics
+354,4-cyanophenol,5.380211242,767-00-0,C1=CC(=CC=C1C#N)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,13019.0,halogeneted,Halogenated organics
+355,4-methoxyphenol,7.230448921,150-76-5,COC1=CC=C(C=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,9015.0,alcohol,Oxygenated organics
+356,4-methylphenol,6.86332286,106-44-5,CC1=CC=C(C=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,2879.0,alkane,Aliphatic hydrocarbons
+357,4-nitrophenol,5.414973348,100-02-7,C1=CC(=CC=C1[N+](=O)[O-])O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,980.0,halogeneted,Halogenated organics
+358,4-tert-butylphenol,7.079181246,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,7393.0,alkane,Aliphatic hydrocarbons
+359,"2,4-dimethylphenol",6.361727836,105-67-9,CC1=CC(=C(C=C1)O)C,,25,https://doi.org/10.1039/C6EM00580B,7771.0,alkane,Aliphatic hydrocarbons
+360,"2,4-dichlorophenol",6.447158031,120-83-2,C1=CC(=C(C=C1Cl)Cl)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,8449.0,halogeneted,Halogenated organics
+361,"2,6-dimethylphenol",6.707570176,576-26-1,CC1=C(C(=CC=C1)C)O,,25,https://doi.org/10.1039/C6EM00580B,11335.0,alkane,Aliphatic hydrocarbons
+362,"2,6-dimethoxyphenol",7.556302501,1991/10/3,,,25,https://doi.org/10.1021/es00021a011?ref=pdf,,phosphorus,Phosphorus-containing organics
+363,3-methyl-4-chlorophenol,7.477121255,59-50-7,CC1=C(C=CC(=C1)O)Cl,,25,https://doi.org/10.1039/C6EM00580B,1732.0,alkane,Aliphatic hydrocarbons
+364,"2,3,5-trichlorophenol",5.176091259,933-78-8,C1=C(C=C(C(=C1O)Cl)Cl)Cl,,25,https://doi.org/10.1039/C6EM00580B,13619.0,halogeneted,Halogenated organics
+365,"2,4,6-trimethylphenol",6.505149978,118-79-6,C1=C(C=C(C(=C1Br)O)Br)Br,,25,https://doi.org/10.1039/C6EM00580B,1483.0,halogeneted,Halogenated organics
+366,"2,4,6-tribromophenol",6.431363764,118-79-6,C1=C(C=C(C(=C1Br)O)Br)Br,,25,https://doi.org/10.1039/C6EM00580B,1483.0,halogeneted,Halogenated organics
+367,"2,4,6-trichlorophenol",7.230448921,118-79-6,C1=C(C=C(C(=C1Br)O)Br)Br,,25,https://doi.org/10.1021/es00021a011?ref=pdf,1483.0,halogeneted,Halogenated organics
+368,pentachlorophenol,5.301029996,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,,25,https://doi.org/10.1021/es00021a011?ref=pdf,992.0,halogeneted,Halogenated organics
+369,"3,4-dihydroxyphenylalanine",8.954242509,59-92-7,C1=CC(=C(C=C1CC(C(=O)O)N)O)O,,25,https://doi.org/10.1111/j.1751-1097.1979.tb07364.x,836.0,diol,Polyfunctional / highly functionalized
+370,2-methylfuran,7.77815125,534-22-5,CC1CCCO1,,25,https://doi.org/10.1016/0047-2670(78)80059-8,7301.0,alkane,Aliphatic hydrocarbons
+371,"2,5-dimethylfuran",9.079181246,625-86-5,CC1=CC=C(O1)C,,25,https://doi.org/10.1016/0045-6535(87)90004-X，https://doi.org/10.1021/j100397a010?ref=pdf，https://doi.org/10.1021/es00021a011?ref=pdf,12266.0,alkane,Aliphatic hydrocarbons
+372,furfuryl alcohol,8.041392685,98-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],,25,https://doi.org/10.1039/C6EM00646A,4130.0,diol,Polyfunctional / highly functionalized
+373,"N,N-dimethyl-4-nitrosoaniline",7.748188027,138-89-6,CN(C)C1=CC=C(C=C1)N=O,,25,https://doi.org/10.1016/1011-1344(91)80116-Y，https://doi.org/10.1111/j.1751-1097.1988.tb02801.x,8749.0,halogeneted,Halogenated organics
+374,"N,N,N,N-tetramethyl-p-phenylenediamine",9.51851394,100-22-1,CN(C)C1=CC=C(C=C1)N(C)C,,25,https://doi.org/10.1021/j100397a010?ref=pdf,7490.0,halogeneted,Halogenated organics
+375,"2-dimethylamino-5,6-dimethylpyrimidin-4-ol",7.954242509,40778-16-3,CCCCCC1=CC(=C2C3CC(CCC3C(OC2=C1)(C)C)(C)O)O,,25,https://doi.org/10.1002/ps.2780140415,169742.0,alkane,Aliphatic hydrocarbons
+376,methionine,7.602059991,59-51-8,CSCCC(C(=O)O)N,,25,https://doi.org/10.1007/BF00805805，https://doi.org/10.1111/j.1751-1097.1978.tb06973.x，https://doi.org/10.1111/j.1751-1097.1977.tb07443.x,876.0,"sulfide, disulfide",Sulfur-containing organics
+377,diethyl sulfide,7.255272505,352-93-2,CCSCC,,25,https://doi.org/10.1016/0045-6535(87)90004-X,9609.0,"sulfide, disulfide",Sulfur-containing organics
+378,H-Gly-Met-OH,7.113943352,554-94-9,CSCCC(C(=O)O)NC(=O)CN,,25,https://doi.org/10.1007/BF00805805,96757.0,"sulfide, disulfide",Sulfur-containing organics
+379,methionine methyl ester,6.84509804,10332-17-9,COC(=O)[C@H](CCSC)N,,25,https://doi.org/10.1007/BF00805805,64684.0,alcohol,Oxygenated organics
+380,histamine,8.041392685,51-45-6,C1=C(NC=N1)CCN,,25,https://doi.org/10.1007/BF00805805,774.0,halogeneted,Halogenated organics
+381,histidyl-glycine,7.819543936,2578-58-7,C1=C(NC=N1)C[C@@H](C(=O)NCC(=O)O)N,,25,https://doi.org/10.1007/BF00805805,101179.0,halogeneted,Halogenated organics
+382,histidine,7.785329835,71-00-1,C1=C(NC=N1)CC(C(=O)O)N,,25,https://doi.org/10.1007/BF00805805,773.0,halogeneted,Halogenated organics
+383,	Gly-His,7.919078092,	2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,,25,https://doi.org/10.1007/BF00805805,142774.0,cyclo,Aromatic & PAHs
+384,imidazole,7.556302501,288-32-4,C1=CN=CN1,,25,https://doi.org/10.1016/0047-2670(78)80059-8，https://doi.org/10.1016/1011-1344(91)80116-Y，https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,795.0,halogeneted,Halogenated organics
+385,thiourea,6.643452676,62-56-6,C(=S)(N)N,,25,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,2723790.0,halogeneted,Halogenated organics
+386,allylthiourea,6.602059991,109-57-9,CC(CCC(=O)O)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,,25,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,67174.0,diol,Polyfunctional / highly functionalized
+387,methyl-thiourea,6.301029996,598-52-7,CSC(=N)N,,25,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x,5142.0,"sulfide, disulfide",Sulfur-containing organics
+388,pyrrole,8.698970004,109-97-7,C1=CNC=C1,,25,https://doi.org/10.1021/acs.est.9b03948?ref=pdf,8027.0,cyclo,Aromatic & PAHs
+389,3-cyanopyrrole,7.531478917,7126-38-7,CC1(CC(CC(C1)(C)CN2C(=O)N(C(=O)N(C2=O)CC3(CC(CC(C3)(C)C)NC(=O)N4CCCCCC4=O)C)CC5(CC(CC(C5)(C)C)NC(=O)N6CCCCCC6=O)C)NC(=O)N7CCCCCC7=O)C,,25,https://doi.org/10.1021/acs.est.9b03948?ref=pdf,112130.0,diol,Polyfunctional / highly functionalized
+390,3-phenylpyrrole,8.897627091,27649-43-0,C1=CC=C(C=C1)C2=CNC=C2,,25,https://doi.org/10.1021/acs.est.9b03948?ref=pdf,5324110.0,cyclo,Aromatic & PAHs
+391,"2,2,6,6-tetramethylpiperidin-4-ol",7.602059991,2403-88-5,CC1(CC(CC(N1)(C)C)O)C,,25,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,75471.0,alkane,Aliphatic hydrocarbons
+392,"1,4-diazabicyclo [2.2.2] octane",8.447158031, 280-57-9,C1CN2CCN1CC2,,25,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,9237.0,halogeneted,Halogenated organics
+393,alanine,7.477121255,56-41-7,CC(C(=O)O)N,,25,https://doi.org/10.1080/02772249209357813,602.0,alkane,Aliphatic hydrocarbons
+394,indole-3-carboxylic acid,7.146128036,771-50-6,C1=CC=C2C(=C1)C(=CN2)C(=O)O,,25,https://doi.org/10.1007/BF00805805,69867.0,halogeneted,Halogenated organics
+395,indole-3-butyric acid,7.857332496,830-50-6,,,25,https://doi.org/10.1007/BF00805805,,pyridine,Heterocycles
+396,indole-3-propionic acid,7.86332286,830-96-6,C1=CC=C2C(=C1)C(=CN2)CCC(=O)O,,25,https://doi.org/10.1007/BF00805805,3744.0,halogeneted,Halogenated organics
+397,indole-3-acetate ion,7.963787827,93672-51-6,C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-],,25,https://doi.org/10.1007/BF00805805,801.0,halogeneted,Halogenated organics
+398,indole-3-acetic acid,7.301029996,87-51-4,C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-],,25,https://doi.org/10.1016/1011-1344(90)85141-I,801.0,halogeneted,Halogenated organics
+399,indole,7.84509804,120-72-9,C1=CC=C2C(=C1)C=CN2,,25,https://doi.org/10.1111/j.1751-1097.1988.tb02864.x,798.0,halogeneted,Halogenated organics
+400,tryptophan,7.414973348,1954/12/6,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,,25,https://doi.org/10.1080/02772249209357813,1148.0,halogeneted,Halogenated organics
+401,mitomycin C ,9.95,1950/7/7,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,N.A. ,,https://doi.org/10.1093/oxfordjournals.jbchem.a132617,,alcohol,Oxygenated organics
+402,17β-estradiol ,7.28,50-28-2 ,OC1=CC2=C(C=C1)[C@]3([H])[C@@]([C@@](CC[C@@H]4O)([H])[C@]4(C)CC3)([H])CC2,N.A. ,,https://doi.org/10.1021/es304334w,,alcohol,Oxygenated organics
+403,17β-estradiol ,8.81,50-28-2 ,OC1=CC2=C(C=C1)[C@]3([H])[C@@]([C@@](CC[C@@H]4O)([H])[C@]4(C)CC3)([H])CC2,N.A. ,,https://doi.org/10.1021/es304334w,,alcohol,Oxygenated organics
+404,"2,4-dinitrophenolate ",5.61,51-28-5 ,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[O-],N.A. ,,https://doi.org/10.1039/C6EM00580B,,diol,Polyfunctional / highly functionalized
+405,histamine ,7.45,51-45-6 ,C1=C(NC=N1)CCN,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle,,halogeneted,Halogenated organics
+406,dopamine ,6.94,51-61-6 ,C1=CC(=C(C=C1CCN)O)O,6,,https://doi.org/10.1111/j.1751-1097.2008.00320.x,,halogeneted,Halogenated organics
+407,penicillamine ,6.38,52-67-5 ,CC(C)([C@H](C(=O)O)N)S,N.A. ,,https://doi.org/10.1111/j.1751-1097.1991.tb08464.x,,"sulfide, disulfide",Sulfur-containing organics
+408,3-methyl-4-chlorophenol ,7.47,59-50-7 ,CC1=C(C=CC(=C1)O)Cl,3,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+409,3-methyl-4-chlorophenol ate,8.11,59-50-7 ,CC1=C(C=CC(=C1)O)Cl,12,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+410,2-ammonio-4-(methylsul fanyl) butanoate ,7.0,59-51-8 ,CSCCC([NH3+])C([O-])=O,7,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle，https://doi.org/10.1111/j.1751-1097.1977.tb07443.x,,"sulfide, disulfide",Sulfur-containing organics
+411,tyrosine ,6.94,60-18-4 ,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+412,2-aminoethanethiol ,6.92,60-23-1 ,C(CS)N,N.A. ,,https://doi.org/10.1111/j.1751-1097.1991.tb08464.x,,halogeneted,Halogenated organics
+413,tryptamine ,9.89,61-54-1 ,C1=CC=C2C(=C1)C(=CN2)CCN,7,,https://doi.org/10.1135/cccc19931299,,halogeneted,Halogenated organics
+414,mefenamic acid ,7.2,61-68-7 ,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C,7.5,,https://doi.org/10.1039/c7em00079k,,cyclo,Aromatic & PAHs
+415,thiourea ,6.64,62-56-6 ,C(=S)(N)N,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle,,halogeneted,Halogenated organics
+416,uracil ,5.48,66-22-8 ,C1=CNC(=O)NC1=O,9,,https://doi.org/10.1562/2006-07-25-ra-982,,cyclo,Aromatic & PAHs
+417,hypoxanthine ,6.48,68-94-0 ,C1=NC2=C(N1)C(=O)NC=N2,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,halogeneted,Halogenated organics
+418,xanthine ,7.58,69-89-6 ,C1=NC2=C(N1)C(=O)NC(=O)N2,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,halogeneted,Halogenated organics
+419,uric acid ,8.08,69-93-2 ,C12=C(NC(=O)N1)NC(=O)NC2=O,7,,https://doi.org/10.1016/j.jphotochem.2007.06.013,,halogeneted,Halogenated organics
+420,L-histidine ,7.92,71-00-1 ,C1=C(NC=N1)C[C@@H](C(=O)O)N,7,,https://doi.org/10.1016/j.jphotochem.2007.01.005，https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+421,sulfathiazole ,7.74,72-14-0 ,C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=CS2,N.A. ,,https://doi.org/10.1039/c7em00079k,,"sulfide, disulfide",Sulfur-containing organics
+422,L-tryptophan ,8.51,73-22-3 ,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,7.4,,https://doi.org/10.1016/j.jphotochem.2007.01.005,,halogeneted,Halogenated organics
+423,tetrabromobisphenol ,5.95,79-94-7 ,C1=CC(=C(C(=C1C2=CC(=C(C=C2Br)Br)O)Br)Br)O,N.A. ,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,halogeneted,Halogenated organics
+424,tetrabromobisphenolate ,8.18,79-94-7 ,C1=CC(=C(C(=C1C2=CC(=C(C=C2Br)Br)O)Br)Br)O,12,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,halogeneted,Halogenated organics
+425,bisphenol A ,5.48,1980/5/7,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,N.A. ,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,alkane,Aliphatic hydrocarbons
+426,bisphenol A ,8.3,1980/5/7,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,12,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,alkane,Aliphatic hydrocarbons
+427,"4,4'-Sulfonyldiphenol",7.11,	80-09-1,C1=CC(=CC=C1O)S(=O)(=O)C2=CC=C(C=C2)O,12,,https://doi.org/10.1039/C6EM00580B,,"sulfide, disulfide",Sulfur-containing organics
+428,pentachlorophenol ,5.3,87-86-5 ,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+429,pentachlorophenolate ,8.3,87-86-5 ,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+430,"2,4,6-trichlorophenol ",7.23,1988/6/2,C1=C(C=C(C(=C1Cl)O)Cl)Cl,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+431,"2,4,6-Trichlorophenol",8.16,1988/6/2,C1=C(C=C(C(=C1Cl)[O-])Cl)Cl,9,,https://doi.org/10.1021/es00021a011，https://doi.org/10.1016/0045-6535(87)90004-X,,halogeneted,Halogenated organics
+432,2-nitrophenol ,6.11,88-75-5 ,C1=CC=C(C(=C1)[N+](=O)[O-])O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+433,2-nitrophenolate ,7.65,88-75-5 ,C1=CC=C(C(=C1)[N+](=O)[O-])[O-],12,,https://doi.org/10.1039/C6EM00580B，https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+434,2-nitro-4-chlorophenolat e,7.33,89-64-5 ,OC1=CC=C(Cl)C=C1[N+]([O-])=O,8,,https://doi.org/10.1016/j.scitotenv.2012.03.034,,alcohol,Oxygenated organics
+435,2-methoxyphenol ,6.78,1990/5/1,COC1=CC=CC=C1O,N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+436,2-methoxyphenolate ,8.64,1990/5/1,COC1=CC=CC=C1[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+437,1-hydroxynaphthalene ,7.32,90-15-3 ,C1=CC=C2C(=C1)C=CC=C2O,7,,https://doi.org/10.1016/S1010-6030(99)00172-0,,cyclo,Aromatic & PAHs
+438,2-hydroxybiphenyl ,7.64,90-43-7 ,C1=CC=C(C=C1)C2=CC=CC=C2O,11,,https://doi.org/10.1016/0045-6535(93)90113-J,,cyclo,Aromatic & PAHs
+439,"2,6-dimethoxyphenol ",7.56,1990/10/1,COC1=C(C(=CC=C1)OC)O,3,,https://doi.org/10.1016/0045-6535(93)90113-J,,diol,Polyfunctional / highly functionalized
+440,"2,6-dimethoxyphenolate ",8.94,1990/10/1,COC1=C(C(=CC=C1)OC)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,diol,Polyfunctional / highly functionalized
+441,2-aminonaphthalene ,7.0,91-59-8 ,C1=CC=C2C=C(C=CC2=C1)N,7,,https://doi.org/10.1016/S1010-6030(99)00172-0,,halogeneted,Halogenated organics
+442,benzyl-4-hydroxybenzoat e,6.34,94-18-8 ,O=C(C1=CC=C(O)C=C1)OCC2=CC=CC=C2,7,,https://doi.org/10.1016/j.cej.2012.08.097,,alcohol,Oxygenated organics
+443,benzyl-4-hydroxybenzoat e,6.8,94-18-8 ,O=C(C1=CC=C(O)C=C1)OCC2=CC=CC=C2,10.8,,https://doi.org/10.1016/j.cej.2012.08.097,,alcohol,Oxygenated organics
+444,butylparaben ,6.38,94-26-8 ,CCCCOC(=O)C1=CC=C(C=C1)O,7,,https://doi.org/10.1016/j.cattod.2010.03.040,,alcohol,Oxygenated organics
+445,2-chlorophenol ,6.96,95-57-8 ,C1=CC=C(C(=C1)O)Cl,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+446,2-chlorophenolate ,8.13,95-57-8 ,C1=CC=C(C(=C1)[O-])Cl,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+447,4-chlororesorcinol ,7.32,95-88-5 ,C1=CC(=C(C=C1O)O)Cl,N.A. ,,https://doi.org/10.1016/1010-6030(91)85079-V,,halogeneted,Halogenated organics
+448,furfuryl alcohol ,8.1,98-00-0 ,C1=COC(=C1)CO,N.A. ,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x，https://doi.org/10.1021/es070656t,,alcohol,Oxygenated organics
+449,4-tert-butylphenol ,7.08,98-54-4 ,CC(C)(C)C1=CC=C(C=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+450,4-tert-butylphenolate ,8.55,98-54-4 ,CC(C)(C)C1=CC=C(C=C1)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+451,4-acetylphenol ,6.18,99-93-4 ,CC(=O)C1=CC=C(C=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+452,4-acetylphenolate ,7.37,99-93-4 ,CC(=O)C1=CC=C(C=C1)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+453,4-nitrophenol ,5.41,100-02-7 ,C1=CC(=CC=C1[N+](=O)[O-])O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+454,4-nitrophenolate ,6.61,100-02-7 ,C1=CC(=CC=C1[N+](=O)[O-])[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+455,"2,4-dimethylphenol ",6.36,105-67-9 ,CC1=CC(=C(C=C1)O)C,3,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+456,4-methylphenol ,6.98,106-44-5 ,CC1=CC=C(C=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+457,4-methylphenolate ,8.55,106-44-5 ,CC1=CC=C(C=C1)[O-],12,,https://doi.org/10.1039/C6EM00580B，https://doi.org/10.1021/es00021a011,,alkane,Aliphatic hydrocarbons
+458,4-chlorophenol ,6.78,106-48-9 ,C1=CC(=CC=C1O)Cl,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+459,4-chlorophenolate ,8.29,106-48-9 ,C1=CC(=CC=C1[O-])Cl,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+460,3-methylphenol ,7.26,108-39-4 ,CC1=CC(=CC=C1)O,3,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+461,3-methylphenolate ,8.31,108-39-4 ,[CH2+]C1=CC(=CC=C1)[O-],12,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+462,3-chlorophenol ,6.52,108-43-0 ,C1=CC(=CC(=C1)Cl)O,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+463,3-chlorophenolate ,8.17,108-43-0 ,C1=CC(=CC(=C1)Cl)[O-],12,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+464,m-dihydroxybenzene ,6.98,108-46-3 ,C1=CC(=CC(=C1)O)O,7,,https://doi.org/10.1016/1010-6030(91)85079-V，https://doi.org/10.1016/j.watres.2013.08.029,,halogeneted,Halogenated organics
+465,phenol ,6.42,108-95-2 ,C1=CC=C(C=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+466,phenolate ,8.22,108-95-2 ,C1=CC=C(C=C1)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+467,3-hydroxypyridine ,7.41,109-00-2 ,C1=CC(=CN=C1)O,6,,https://doi.org/10.1016/S0010-8545(02)00034-6,,halogeneted,Halogenated organics
+468,allylthiourea ,6.63,109-57-9 ,C=CCNC(=S)N,7,,https://doi.org/10.1111/j.1751-1097.1978.tb07557.x,,halogeneted,Halogenated organics
+469,"2,4,6-tribromophenol ",6.43,118-79-6 ,C1=C(C=C(C(=C1Br)O)Br)Br,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+470,"2,4,6-tribromophenolate ",7.92,118-79-6 ,C1=C(C=C(C(=C1Br)[O-])Br)Br,12,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+471,2-nitro-4-methylphenolat e,7.45,119-33-5 ,CC1=CC=C(O)C([N+]([O-])=O)=C1,10,,https://doi.org/10.1080/02772249009357622,,cyclo,Aromatic & PAHs
+472,methyl salicylate ,8.2,119-36-8 ,COC(=O)C1=CC=CC=C1O,10,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+473,indole ,7.85,120-72-9 ,C1=CC=C2C(=C1)C=CN2,7.2,,https://doi.org/10.1111/j.1751-1097.1988.tb02864.x,,halogeneted,Halogenated organics
+474,"2,4-dichlorophenol ",6.71,120-83-2 ,C1=CC(=C(C=C1Cl)Cl)O,6,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+475,"2,4-dichlorophenolate ",8.16,120-83-2 ,C1=CC(=C(C=C1Cl)Cl)[O-],9.6,,https://doi.org/10.1021/es00021a011，https://doi.org/10.1016/0045-6535(87)90004-X,,halogeneted,Halogenated organics
+476,"1,4-dihydroxybenzene ",7.58,123-31-9 ,C1=CC(=CC=C1O)O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+477,"5,5-dimethyl-1,3-cyclohe xandione ",8.15,126-81-8 ,CC(CC(C1)=O)(CC1=O)C,N.A. ,,https://doi.org/10.1002/bip.10559,,alkane,Aliphatic hydrocarbons
+478,benzophenone-3 ,5.3,131-57-7 ,COC1=CC(=C(C=C1)C(=O)C2=CC=CC=C2)O,6.5,,https://doi.org/10.1016/j.scitotenv.2013.05.090,,alcohol,Oxygenated organics
+479,1-aminonaphthalene ,7.36,134-32-7 ,C1=CC=C2C(=C1)C=CC=C2N,7,,https://doi.org/10.1016/S1010-6030(99)00172-0,,cyclo,Aromatic & PAHs
+480,"N,N-dimethyl-4-nitrosoa niline ",7.83,138-89-6 ,CN(C1=CC=C(N=O)C=C1)C,N.A. ,,https://doi.org/10.1016/1011-1344(91)80116-Y,,halogeneted,Halogenated organics
+481,4-t-Octylphenol ,4.53,140-66-9 ,CC(C)(C)CC(C)(C)C1=CC=C(C=C1)O,7,,https://doi.org/10.1016/j.cattod.2010.03.040,,alkane,Aliphatic hydrocarbons
+482,8-hydroxyquinoline ,6.9,148-24-3 ,C1=CC2=C(C(=C1)O)N=CC=C2,6,,https://doi.org/10.1016/S0010-8545(02)00034-6,,cyclo,Aromatic & PAHs
+483,3-methoxyphenol ,7.11,150-19-6 ,COC1=CC=CC(=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+484,3-methoxyphenolate ,8.45,150-19-6 ,COC1=CC=CC(=C1)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+485,4-methoxyphenol ,7.34,150-76-5 ,COC1=CC=C(C=C1)O,N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+486,4-methoxyphenolate ,8.82,150-76-5 ,COC1=CC=C(C=C1)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,alcohol,Oxygenated organics
+487,triethylenediamine ,8.45,280-57-9 ,C1CN2CCN1CC2,8,,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,,halogeneted,Halogenated organics
+488,imidazole ,7.57,288-32-4 ,C1=CN=CN1,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle，https://doi.org/10.1111/j.1751-1097.1977.tb07443.x,,halogeneted,Halogenated organics
+489,8-methoxypsoralen ,9.2,298-81-7 ,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,N.A. ,,https://doi.org/10.1016/j.jphotochem.2019.04.029,,alcohol,Oxygenated organics
+490,carnosine ,8.11,305-84-0 ,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)CCN,7.4,,https://doi.org/10.1016/j.jphotochem.2007.01.005,,halogeneted,Halogenated organics
+491,diuron ,5.46,330-54-1 ,CN(C)C(=O)NC1=CC(=C(C=C1)Cl)Cl,8.5,,https://doi.org/10.1021/es3030808,,halogeneted,Halogenated organics
+492,diethylsulfide ,7.26,352-93-2 ,CCSCC,7,,https://doi.org/10.1016/0045-6535(87)90004-X,,"sulfide, disulfide",Sulfur-containing organics
+493,genistein ,7.53,446-72-0 ,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,8.0 8.5 ,,https://doi.org/10.1021/es300041f，https://doi.org/10.1021/es301205a,,diol,Polyfunctional / highly functionalized
+494,diadzein ,7.26,486-66-8 ,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,8.5,,https://doi.org/10.1021/es300041f,,halogeneted,Halogenated organics
+495,biochanin A ,7.83,491-80-5 ,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,8,,https://doi.org/10.1021/es301205a,,diol,Polyfunctional / highly functionalized
+496,"2,4,6-trimethylphenol ",6.51,527-60-6 ,CC1=CC(=C(C(=C1)C)O)C,3,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+497,"2,4,6-trimethylphenolate ",8.78,527-60-6 ,CC1=CC(=C(C(=C1)C)[O-])C,12,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+498,flufenamic acid ,7.11,530-78-9 ,C1=CC=C(C(=C1)C(=O)O)NC2=CC=CC(=C2)C(F)(F)F,7.5,,https://doi.org/10.1039/c7em00079k,,halogeneted,Halogenated organics
+499,equol ,7.6,531-95-3 ,C1[C@H](COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O,8,,https://doi.org/10.1021/es301205a,,halogeneted,Halogenated organics
+500,sesamol ,7.98,533-31-3 ,C1OC2=C(O1)C=C(C=C2)O,3,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+501,sesamol ,9.29,533-31-3 ,C1OC2=C(O1)C=C(C=C2)O,12,,https://doi.org/10.1039/C6EM00580B,,alcohol,Oxygenated organics
+502,2-methylfuran ,7.88,534-22-5 ,CC1=CC=CO1,7,,https://doi.org/10.1016/0009-2614(78)85130-6,,alkane,Aliphatic hydrocarbons
+503,"4,6-dinitro-2-methylphen olate ",5.1,534-52-1 ,OC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1C,N.A. ,,https://doi.org/10.1021/es00021a011,,diol,Polyfunctional / highly functionalized
+504,3-nitrophenol ,6.47,554-84-7 ,C1=CC(=CC(=C1)O)[N+](=O)[O-],3,,https://doi.org/10.1039/C6EM00580B，https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+505,3-nitrophenolate ,7.61,554-84-7 ,C1=CC(=CC(=C1)[O-])[N+](=O)[O-],12,,https://doi.org/10.1039/C6EM00580B，https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+506,glycyl-L-methionine ,7.11,554-94-9 ,CSCC[C@@H](C(=O)O)NC(=O)CN,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,"sulfide, disulfide",Sulfur-containing organics
+507,"2,6-dimethylphenol ",6.71,576-26-1 ,CC1=C(C(=CC=C1)C)O,3,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+508,"2,6-dimethylphenolate ",8.02,576-26-1 ,CC1=C(C(=CC=C1)C)[O-],12,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+509,N-methylthiourea ,6.3,598-52-7 ,CNC(=S)N,7.1,,https://doi.org/10.1111/j.1751-1097.1978.tb06973.x?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle,,halogeneted,Halogenated organics
+510,"2,6-dinitro-4-methylphen olate ",7.16,609-93-8 ,[O-][N+](C(C=C(C)C=C1[N+]([O-])=O)=C1O)=O,N.A. ,,https://doi.org/10.1021/es00021a011,,diol,Polyfunctional / highly functionalized
+511,chlorohydroquinone ,7.23,615-67-8 ,C1=CC(=C(C=C1O)Cl)O,N.A. ,,https://doi.org/10.1016/1010-6030(91)85079-V,,halogeneted,Halogenated organics
+512,"2,5-dimethylfuran ",9.08,625-86-5 ,CC1=CC=C(O1)C,N.A. ,,https://doi.org/10.1016/0045-6535(87)90004-X，https://doi.org/10.1246/bcsj.51.379,,alkane,Aliphatic hydrocarbons
+513,meclofenamic acid ,7.45,644-62-2 ,CC1=C(C(=C(C=C1)Cl)NC2=CC=CC=C2C(=O)O)Cl,7.5,,https://doi.org/10.1039/c7em00079k,,cyclo,Aromatic & PAHs
+514,4-cyanophenol ,5.38,767-00-0 ,C1=CC(=CC=C1C#N)O,N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+515,4-cyanophenolate ,6.79,767-00-0 ,C1=CC(=CC=C1C#N)[O-],N.A. ,,https://doi.org/10.1021/es00021a011,,halogeneted,Halogenated organics
+516,bisphenol Z ,6.68,843-55-0 ,C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+517,bisphenol Z ,7.74,843-55-0 ,C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,12,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+518,"2,3,5-trichlorophenol ",5.17,933-78-8 ,C1=C(C=C(C(=C1O)Cl)Cl)Cl,3,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+519,2-methyl-3-hydroxypyrid ine ,7.72,1121-25-1 ,CC1=NC=CC=C1O,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,cyclo,Aromatic & PAHs
+520,bisphenol AF ,8.04,1478-61-1 ,C1=CC(=CC=C1C(C2=CC=C(C=C2)O)(C(F)(F)F)C(F)(F)F)O,12,,https://doi.org/10.1039/C6EM00580B,,halogeneted,Halogenated organics
+521,bisphenol AP ,7.34,1571-75-1 ,CC(C1=CC=CC=C1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,12,,https://doi.org/10.1039/C6EM00580B,,alkane,Aliphatic hydrocarbons
+522,clopyralid ,5.85,1702-17-6 ,C1=CC(=NC(=C1Cl)C(=O)O)Cl,8.5,,https://doi.org/10.1021/es3030808,,halogeneted,Halogenated organics
+523,"2,2-dihydroxybiphenyl ",7.34,1806-29-7 ,C1C=CC=C(C1(O)O)C2=CC=CC=C2,11,,https://doi.org/10.1016/0045-6535(93)90113-J,,cyclo,Aromatic & PAHs
+524,atrazine ,5.3,1912-24-9 ,CCNC1=NC(=NC(=N1)Cl)NC(C)C,8.5,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+525,glycyl-L-tryptophan ,7.75,2390-74-1 ,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)CN,7,,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+526,"2,2,6,6-tetramethyl-4-pip eridinol ",7.6,2403-88-5 ,CC(NC(C)(C1)C)(CC1O)C,8,,https://doi.org/10.1111/j.1751-1097.1980.tb02545.x,,alkane,Aliphatic hydrocarbons
+527,glycyl-L-histidine ,7.92,2489-13-6 ,C1=C(NC=N1)C[C@@H](C(=O)O)NC(=O)CN,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+528,L-histidylglycine ,7.82,2578-58-7 ,C1=C(NC=N1)C[C@@H](C(=O)NCC(=O)O)N,7,,https://doi.org/10.1111/j.1751-1097.1993.tb02317.x,,halogeneted,Halogenated organics
+529,chlorpyrifos ,6.28,2921-88-2 ,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,8.5,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+530,α-phenyl-n-tert-butylnitr one,8.15,3376-24-7 ,[O-]/[N+](C(C)(C)C)=C\C1=CC=CC=C1,N.A. ,,https://ui.adsabs.harvard.edu/link_gateway/1980JAChS.102.7778H/doi:10.1021/ja00546a024,,cyclo,Aromatic & PAHs
+531,triclosan ,6.48,3380-34-5 ,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,5,,https://doi.org/10.1897/04-243r.1,,alcohol,Oxygenated organics
+532,triclosan ,8.04,3380-34-5 ,C1=CC(=C(C=C1Cl)O)OC2=C(C=C(C=C2)Cl)Cl,10,,https://doi.org/10.1897/04-243r.1,,alcohol,Oxygenated organics
+533,"4-hydroxy-2,2,6,6-tetram ethylpiperidine ",7.6,3637/10/3,ON(C(C)(C1)C)C(C)(CC1O)C,7.4,,https://doi.org/10.1016/j.jphotochem.2012.03.012,,halogeneted,Halogenated organics
+534,dihydrofolate ,8.72,4033-27-6 ,C1C(=NC2=C(N1)N=C(NC2=O)N)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+535,2’-HO-BDE-28 ,6.46,4656-58-0 ,C1=CC(=C(C=C1Br)O)OC2=C(C=C(C=C2)Br)Br,6,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11026242.0,alcohol,Oxygenated organics
+536,2’-HO-BDE-28 ,8.28,4656-58-0 ,C1=CC(=C(C=C1Br)O)OC2=C(C=C(C=C2)Br)Br,9,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11026242.0,alcohol,Oxygenated organics
+537,"1,3-diphenylisobenzofura n",9.62,5471-63-6 ,C12=C(C3=CC=CC=C3)OC(C4=CC=CC=C4)=C1C=CC=C2,N.A. ,,https://doi.org/10.1016/S1010-6030(99)00115-X,,alcohol,Oxygenated organics
+538,tetramethylbisphenol ,6.08,5613-46-7 ,OC1=C(C)C=C(C=C1C)C(C)(C)C2=CC(C)=C(O)C(C)=C2,N.A. ,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,alcohol,Oxygenated organics
+539,tetramethylbisphenolate ,8.15,5613-46-7 ,OC1=C(C)C=C(C=C1C)C(C)(C)C2=CC(C)=C(O)C(C)=C2,12,,https://doi.org/10.1016/j.chemosphere.2008.06.013,,alcohol,Oxygenated organics
+540,2-bromo-3-hydroxypyridi ne,7.32,6602-32-0 ,OC1=CC=CN=C1Br,7,,https://doi.org/10.1016/S1010-6030(99)00115-X,,alcohol,Oxygenated organics
+541,"7,8-dihydrobiopterin ",8.49,6779-87-9 ,C[C@@H]([C@@H](C1=NC2=C(NC1)N=C(NC2=O)N)O)O,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+542,10-methylanthracene ,6.98,7072-00-6 ,CC1=C2C(C=CC=C2)=C(C=O)C3=CC=CC=C31,7.4,,https://doi.org/10.1021/ja062990f,,cyclo,Aromatic & PAHs
+543,tolfenamic acid ,7.11,13710-19-5 ,CC1=C(C=CC=C1Cl)NC2=CC=CC=C2C(=O)O,7.5,,https://doi.org/10.1039/c7em00079k,,cyclo,Aromatic & PAHs
+544,alachlor ,5.52,15972-60-8 ,CCC1=C(C(=CC=C1)CC)N(COC)C(=O)CCl,8.5,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+545,2-amino-3-hydroxypyridi ne,8.13,16867-03-1 ,OC1=CC=CN=C1N,7,,https://doi.org/10.1246/bcsj.51.379,,alcohol,Oxygenated organics
+546,sepiapterin ,8.54,17094-01-8 ,C[C@@H](C(=O)C1=NC2=C(NC1)N=C(NC2=O)N)O,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+547,"7,8-dihydropterin ",8.51,17838-80-1 ,C1C=NC2=C(N1)N=C(NC2=O)N,7,,https://doi.org/10.1021/jp071278h,,halogeneted,Halogenated organics
+548,metoxuron ,6.04,19937-59-8 ,CN(C)C(=O)NC1=CC(=C(C=C1)OC)Cl,8.5,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+549,S-2-(3-aminopropylamin o) ethyl phosphorothioate ,6.87,20537-88-6 ,NCCCNCCSP(O)(O)=O,N.A. ,,https://doi.org/10.1111/j.1751-1097.1991.tb08464.x,,"sulfide, disulfide",Sulfur-containing organics
+550,cyanazine ,5.23,21725-46-2 ,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N,8.5,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+551,diflunisal ,6.28,22494-42-4 ,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O,7,,https://doi.org/10.1111/php.12114,,halogeneted,Halogenated organics
+552,terbutaline ,6.85,23031-25-6 ,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O,7,,https://doi.org/10.1016/j.watres.2013.08.029,,diol,Polyfunctional / highly functionalized
+553,amoxicillin ,4.16,26787-78-0 ,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C,7,,https://doi.org/10.1016/j.watres.2010.08.024,,alkane,Aliphatic hydrocarbons
+554,atenolol ,3.93,29122-68-7 ,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O,7,,https://doi.org/10.1016/j.scitotenv.2012.03.031,,alkane,Aliphatic hydrocarbons
+555,isoproturon ,6.0,34123-59-6 ,CC(C)C1=CC=C(C=C1)NC(=O)N(C)C,8.5,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+556,acetochlor ,5.72,34256-82-1 ,CCC1=CC=CC(=C1N(COCC)C(=O)CCl)C,8.5,,https://doi.org/10.1021/es3030808,,alkane,Aliphatic hydrocarbons
+557,metoprolol ,3.8,37350-58-6 ,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O,7,,https://doi.org/10.1016/j.scitotenv.2012.03.031,,alcohol,Oxygenated organics
+558,"2-dimethylamino-5,6-di methylpyrimidin-4-ol ",7.91,40778-16-3 ,CC1=C(N=C(N(C)C)N=C1C)O,7,,https://doi.org/10.1002/ps.2780140415,,cyclo,Aromatic & PAHs
+559,nadolol ,3.96,42200-33-9 ,CC(C)(C)NCC(COC1=CC=CC2=C1C[C@@H]([C@@H](C2)O)O)O,7,,https://doi.org/10.1016/j.scitotenv.2012.03.031,,diol,Polyfunctional / highly functionalized
+560,metolachlor ,5.64,51218-45-2 ,CCC1=CC=CC(=C1N(C(C)COC)C(=O)CCl)C,8.5,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+561,cimetidine ,7.96,51481-61-9 ,CC1=C(N=CN1)CSCCNC(=NC)NC#N,6.9,,https://doi.org/10.1039/c7em00079k,,"sulfide, disulfide",Sulfur-containing organics
+562,trolox ,8.34,53188-07-1 ,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C,6,,https://doi.org/10.1016/1011-1344(95)07137-Q,,alkane,Aliphatic hydrocarbons
+563,tyrosine ,7.43,55520-40-6 ,C1=CC(=CC=C1C[C@@H](C(=O)O)N)O,7,,https://doi.org/10.1016/1011-1344(91)80212-Z,,halogeneted,Halogenated organics
+564,propiconazole ,6.59,60207-90-1 ,CCCC1COC(O1)(CN2C=NC=N2)C3=C(C=C(C=C3)Cl)Cl,8.5,,https://doi.org/10.1021/es3030808,,alcohol,Oxygenated organics
+565,paroxetine ,8.07,61869-08-7 ,C1CNC[C@H]([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4,7,,https://doi.org/10.1016/j.scitotenv.2016.12.008,,diol,Polyfunctional / highly functionalized
+566,ranitidine ,7.2,66357-35-5 ,CN/C(=C\[N+](=O)[O-])/NCCSCC1=CC=C(O1)CN(C)C,6.4,,https://doi.org/10.1039/c7em00079k,,"sulfide, disulfide",Sulfur-containing organics
+567,"9,10-anthracenedipropion ic acid ",8.08,71367-28-7 ,O=C(O)CCC1=C(C=CC=C2)C2=C(CCC(O)=O)C3=CC=CC=C31,6.8,,https://doi.org/10.1016/1010-6030(92)85132-E,,cyclo,Aromatic & PAHs
+568,2’-HO-BDE-123 ,6.28,80246-24-8 ,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C(=C2O)Br)Br)Br,4,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11978695.0,alcohol,Oxygenated organics
+569,2’-HO-BDE-123 ,8.29,80246-24-8 ,C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C(=C2O)Br)Br)Br,8,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11978695.0,alcohol,Oxygenated organics
+570,2’-HO-BDE-68 ,6.72,80246-25-9 ,C1=CC(=C(C=C1Br)Br)OC2=C(C(=CC(=C2)Br)Br)O,5,,https://doi.org/10.1016/j.chemosphere.2012.06.033,4563.0,alcohol,Oxygenated organics
+571,2’-HO-BDE-68 ,8.25,80246-25-9 ,C1=CC(=C(C=C1Br)Br)OC2=C(C(=CC(=C2)Br)Br)O,8,,https://doi.org/10.1016/j.chemosphere.2012.06.033,4563.0,alcohol,Oxygenated organics
+572,fluvastatin ,8.21,93957-54-1 ,CC(C)N1C2=CC=CC=C2C(=C1/C=C/[C@@H](C[C@@H](CC(=O)O)O)O)C3=CC=C(C=C3)F,7,,https://doi.org/10.1016/j.scitotenv.2016.12.008,,diol,Polyfunctional / highly functionalized
+573,mesotrione ,5.84,104206-82-8 ,CS(=O)(=O)C1=CC(=C(C=C1)C(=O)C2C(=O)CCCC2=O)[N+](=O)[O-],8.5,,https://doi.org/10.1021/es3030808,,"sulfide, disulfide",Sulfur-containing organics
+574,danofloxacin ,4.88,112398-08-0 ,CN1C[C@@H]2C[C@H]1CN2C3=C(C=C4C(=C3)N(C=C(C4=O)C(=O)O)C5CC5)F,7,,https://doi.org/10.1016/j.scitotenv.2016.12.008,,halogeneted,Halogenated organics
+575,2’-HO-BDE-7 ,6.63,602326-09-0 ,,7,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+576,2’-HO-BDE-7 ,8.35,602326-09-0 ,,10,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+577,4’-HO-BDE-17 ,6.9,602326-21-6 ,C1=CC(=C(C=C1O)Br)OC2=C(C=C(C=C2)Br)Br,7,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11026243.0,alcohol,Oxygenated organics
+578,4’-HO-BDE-17 ,8.24,602326-21-6 ,C1=CC(=C(C=C1O)Br)OC2=C(C=C(C=C2)Br)Br,9,,https://doi.org/10.1016/j.chemosphere.2012.06.033,11026243.0,alcohol,Oxygenated organics
+579,4’-HO-BDE-90 ,6.48,602326-24-9 ,,4,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+580,4’-HO-BDE-90 ,8.14,602326-24-9 ,,8,,https://doi.org/10.1016/j.chemosphere.2012.06.033,,alcohol,Oxygenated organics
+581,2-(4-chlorophenoxy)-2-methylpropionic acid,6.041392685,882-09-7,ClC1=CC=C(OC(C)(C)C(O)=O)C=C1,3,25,https://doi.org/10.1039/C8RA03140A,,cyclo,Aromatic & PAHs
+582,2-(4-chlorophenoxy)-2-methylpropionic acid,6.278753601,882-09-7,ClC1=CC=C(OC(C)(C)C(O)=O)C=C1,5,25,https://doi.org/10.1039/C8RA03140A,,cyclo,Aromatic & PAHs
+583,2-(4-chlorophenoxy)-2-methylpropionic acid,6.376576957,882-09-7,ClC1=CC=C(OC(C)(C)C(O)=O)C=C1,7,25,https://doi.org/10.1039/C8RA03140A,,cyclo,Aromatic & PAHs
+584,2-(4-chlorophenoxy)-2-methylpropionic acid,6.507855872,882-09-7,ClC1=CC=C(OC(C)(C)C(O)=O)C=C1,8,25,https://doi.org/10.1039/C8RA03140A,,cyclo,Aromatic & PAHs
+585,2-(4-chlorophenoxy)-2-methylpropionic acid,6.267171728,882-09-7,ClC1=CC=C(OC(C)(C)C(O)=O)C=C1,11,25,https://doi.org/10.1039/C8RA03140A,,cyclo,Aromatic & PAHs
+586,furfuryl alcohol,8.146128036,98-00-0,OCC1=CC=CO1,3月9日,37, https://doi.org/10.1002/recl.19610800908,,alcohol,Oxygenated organics
+587,furfuryl alcohol,8.041392685,98-00-0,OCC1=CC=CO1,,9,10.5075/epfl-thesis-519,,alcohol,Oxygenated organics
+588,furfuryl alcohol,8.037426498,98-00-0,OCC1=CC=CO1,7,22,https://doi.org/10.1016/0045-6535(84)90199-1,,alcohol,Oxygenated organics
+589,furfuryl alcohol,7.968482949,98-00-0,OCC1=CC=CO1,7.4,22,https://doi.org/10.1016/S0165-8646(24)00315-5,,alcohol,Oxygenated organics
+590,furfuryl alcohol,8.079181246,98-00-0,OCC1=CC=CO1,7-11.5,,https://doi.org/10.1016/0045-6535(87)90004-X,,alcohol,Oxygenated organics
+591,furfuryl alcohol,8.146128036,98-00-0,OCC1=CC=CO1,6.6-7.6,25,https://doi.org/10.1016/1011-1344(91)80116-Y,,alcohol,Oxygenated organics
+592,furfuryl alcohol,7.919078092,98-00-0,OCC1=CC=CO1,7.5,23,https://doi.org/10.1021/es0340782,,alcohol,Oxygenated organics
+593,furfuryl alcohol,7.973127854,98-00-0,OCC1=CC=CO1,3月12日,19-20,https://doi.org/10.1039/C6EM00646A,,alcohol,Oxygenated organics
+594,furfuryl alcohol,7.0,98-00-0,OCC1=CC=CO1,4月10日,26,https://doi.org/10.1039/C6EM00646A,,alcohol,Oxygenated organics
+595,"2,5-Dimethylfuran ",8.77,625-86-5,CC1=CC=C(O1)C,5,20,https://doi.org/10.1021/acs.est.4c10778,12266.0,alkane,Aliphatic hydrocarbons
+596,"2,3-Dimethylfuran ",8.66,14920-89-9,CC1=C(OC=C1)C,5,20,https://doi.org/10.1021/acs.est.4c10778,34337.0,alkane,Aliphatic hydrocarbons
+597,2-Methylfuran ,8.51,534-22-5,CC1CCCO1,5,20,https://doi.org/10.1021/acs.est.4c10778,7301.0,alkane,Aliphatic hydrocarbons
+598,2-Methyl-furanhydrazide,8.18,315672-60-7,CC1=C(C=CO1)C(=O)NN,5,20,https://doi.org/10.1021/acs.est.4c10778,1987739.0,alkane,Aliphatic hydrocarbons
+599,"2,5-Bis(hydroxymethyl)furan ",8.02,1883-75-6,C1=C(OC(=C1)CO)CO,5,20,https://doi.org/10.1021/acs.est.4c10778,74663.0,halogeneted,Halogenated organics
+600,Furfuryl alcohol ,7.98,98-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],5,20,https://doi.org/10.1021/acs.est.4c10778,4130.0,diol,Polyfunctional / highly functionalized
+601,Furan,7.92,110-00-9,C1=COC=C1,5,20,https://doi.org/10.1021/acs.est.4c10778,8029.0,alcohol,Oxygenated organics
+602,Furoic acid,7.62,88-14-2,C1=COC(=C1)C(=O)O,5,20,https://doi.org/10.1021/acs.est.4c10778,6919.0,alcohol,Oxygenated organics
+603,Furfurylamine,7.6,617-89-0,C1=COC(=C1)CN,5,20,https://doi.org/10.1021/acs.est.4c10778,3438.0,alcohol,Oxygenated organics
+604,"2-Methylfuran-3,4-dicarboxylic acid",7.18,54576-44-2,CC1=C(C(=CO1)C(=O)O)C(=O)O,2.5,20,https://doi.org/10.1021/acs.est.4c10778,4737732.0,alkane,Aliphatic hydrocarbons
+605,Furoic acid,6.58,88-14-2,C1=COC(=C1)C(=O)O,2,20,https://doi.org/10.1021/acs.est.4c10778,6919.0,alcohol,Oxygenated organics
+606,5-Nitro-2-furaldehyde,6.18,698-63-5,C1=C(OC(=C1)[N+](=O)[O-])C=O,5,20,https://doi.org/10.1021/acs.est.4c10778,12774.0,halogeneted,Halogenated organics
+607,5-Hydroxymethyl-2-furaldehyde,6.08,67-47-0,C1=C(OC(=C1)C=O)CO,5,20,https://doi.org/10.1021/acs.est.4c10778,237332.0,halogeneted,Halogenated organics
+608,Furfural,5.8,1998/1/1,C1=COC(=C1)C=O,5,20,https://doi.org/10.1021/acs.est.4c10778,7362.0,alcohol,Oxygenated organics
+609,5-Iodo-2-furaldehyde,5.6,2689-65-8,CCCC1C(=O)N(C(=S)S1)C2=CC=C(C=C2)C,5,20,https://doi.org/10.1021/acs.est.4c10778,211718.0,"sulfide, disulfide",Sulfur-containing organics
+610,5-Chloro-2-furaldehyde,5.56,21508-19-0,C1=C(OC(=C1)Cl)C=O,5,20,https://doi.org/10.1021/acs.est.4c10778,2769630.0,halogeneted,Halogenated organics
+611,5-Bromo-2-furaldehyde,5.53,1899-24-7,C1=C(OC(=C1)Br)C(=O)O,5,20,https://doi.org/10.1021/acs.est.4c10778,68511.0,halogeneted,Halogenated organics
+612,(S)-5-Hydroxymethyl-2(5H)-furanone,3.57,78508-96-0,C1=CC(=O)OC1CO,5,20,https://doi.org/10.1021/acs.est.4c10778,144863.0,alcohol,Oxygenated organics
+613,Carminic acid,8.65,1260-17-9,O=C(C1=C2C(O)=C([C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)C(O)=C1O)C4=C(C(C)=C(C(O)=O)C(O)=C4)C2=O,6.8,37,http://dx.doi.org/10.3998/ark.5550190.0008.819,,diol,Polyfunctional / highly functionalized
+614,Methyl gallate,8.3,99-24-1,COC(=O)C1=CC(=C(C(=C1)O)O)O,6.8,37,http://dx.doi.org/10.3998/ark.5550190.0008.819,7428.0,diol,Polyfunctional / highly functionalized
+615,	Caffeic acid,7.6,331-39-5,C1=CC(=C(C=C1C=CC(=O)O)O)O,6.8,37,http://dx.doi.org/10.3998/ark.5550190.0008.819,2518.0,diol,Polyfunctional / highly functionalized
+616,Trimethylhydroquinone,8.3,700-13-0,CC1=CC(=C(C(=C1O)C)C)O,6.8,37,http://dx.doi.org/10.3998/ark.5550190.0008.819,12785.0,alkane,Aliphatic hydrocarbons
+617,Trolox,8.5,53188-07-1,CC1=C(C2=C(CCC(O2)(C)C(=O)O)C(=C1O)C)C,6.8,37,http://dx.doi.org/10.3998/ark.5550190.0008.819,40634.0,alkane,Aliphatic hydrocarbons
+618,Oxytetracycline,6.936513742,79-57-2,O[C@@]([C@@]1([C@@H](C(O)=C2C(N)=O)N(C)C)[H])(C(O)=C(C3=O)[C@]([C@@H]1O)([C@](C)(O)C4=C3C(O)=CC=C4)[H])C2=O,5,25,https://doi.org/10.1021/acs.est.2c06008,,diol,Polyfunctional / highly functionalized
+619,Oxytetracycline,8.10720997,79-57-2,O[C@@]([C@@]1([C@@H](C(O)=C2C(N)=O)N(C)C)[H])(C(O)=C(C3=O)[C@]([C@@H]1O)([C@](C)(O)C4=C3C(O)=CC=C4)[H])C2=O,7,25,https://doi.org/10.1021/acs.est.2c06008,,diol,Polyfunctional / highly functionalized
+620,Oxytetracycline,9.404833717,79-57-2,O[C@@]([C@@]1([C@@H](C(O)=C2C(N)=O)N(C)C)[H])(C(O)=C(C3=O)[C@]([C@@H]1O)([C@](C)(O)C4=C3C(O)=CC=C4)[H])C2=O,11,25,https://doi.org/10.1021/acs.est.2c06008,,diol,Polyfunctional / highly functionalized
+621,Cimetidine,6.51851394,2984-61-4,CC1=C(N=CN1)CSCCNC(=NC)NC#N,4.2,,https://doi.org/10.1021/es0340782,2756.0,"sulfide, disulfide",Sulfur-containing organics
+622,Cimetidine,7.963787827,2984-61-4,CC1=C(N=CN1)CSCCNC(=NC)NC#N,6.9,,https://doi.org/10.1021/es0340782,2756.0,"sulfide, disulfide",Sulfur-containing organics
+623,Cimetidine,8.342422681,2984-61-4,CC1=C(N=CN1)CSCCNC(=NC)NC#N,8.2,,https://doi.org/10.1021/es0340782,2756.0,"sulfide, disulfide",Sulfur-containing organics
+624,Cimetidine,8.397940009,2984-61-4,CC1=C(N=CN1)CSCCNC(=NC)NC#N,10.2,,https://doi.org/10.1021/es0340782,2756.0,"sulfide, disulfide",Sulfur-containing organics
+625,Ranitidine,7.204119983,66357-35-5,CN(C)CC1=CC=C(CSCCN/C(NC)=C/[N+]([O-])=O)O1,6.4,,https://doi.org/10.1021/es0340782,,halogeneted,Halogenated organics
+626,Ranitidine,7.423245874,66357-35-5,CN(C)CC1=CC=C(CSCCN/C(NC)=C/[N+]([O-])=O)O1,7.5,,https://doi.org/10.1021/es0340782,,halogeneted,Halogenated organics
+627,Ranitidine,7.806179974,66357-35-5,CN(C)CC1=CC=C(CSCCN/C(NC)=C/[N+]([O-])=O)O1,9.8,,https://doi.org/10.1021/es0340782,,halogeneted,Halogenated organics
+628,"2,4,6-Trimethylphenol",7.79,527-60-6,CC1=C(O)C(C)=CC(C)=C1,,27,https://doi.org/10.1016/1010-6030(94)03861-9,,cyclo,Aromatic & PAHs
+629,"2,4,6-Trimethylphenol",9.04,527-60-6,CC1=C(O)C(C)=CC(C)=C1,,27,https://doi.org/10.1016/1010-6030(94)03861-9,,cyclo,Aromatic & PAHs
+630,Phenol,4.06,108-95-2,OC1=CC=CC=C1,6,25,10.1039/c8cp04852e,,alcohol,Oxygenated organics
+631,Butylparaben,7.7,94-26-8,OC1=CC=C(C(OCCCC)=O)C=C1,7,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+632,Butylparaben,7.93,94-26-8,OC1=CC=C(C(OCCCC)=O)C=C1,9,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+633,Butylparaben,80.6,94-26-8,OC1=CC=C(C(OCCCC)=O)C=C1,10.8,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+634,Benzylparaben,7.95,94-18-8,O=C(C1=CC=C(O)C=C1)OCC2=CC=CC=C2,7,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+635,Benzylparaben,8.01,94-18-8,O=C(C1=CC=C(O)C=C1)OCC2=CC=CC=C2,9,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+636,Benzylparaben,8.08,94-18-8,O=C(C1=CC=C(O)C=C1)OCC2=CC=CC=C2,10.8,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+637,	2-Chlorophenol,7.47,95-57-8,OC1=CC=CC=C1Cl,7,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+638,	2-Chlorophenol,8.22,95-57-8,OC1=CC=CC=C1Cl,9,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+639,	2-Chlorophenol,8.31,95-57-8,OC1=CC=CC=C1Cl,10.8,25,https://doi.org/10.3390/molecules27165260,,alcohol,Oxygenated organics
+640,"N,N,2,4-Tetramethylaniline",8.113943352,769-53-9,CC1=CC(=C(C=C1)N(C)C)C,,,NIST,136612.0,alkane,Aliphatic hydrocarbons
+641,"N,N,N',N'-Tetramethyl-o-phenylenediamine",9.041392685,704-01-8,CN(C)C1=CC=CC=C1N(C)C,,,NIST,12803.0,cyclo,Aromatic & PAHs
+642,"2-Methoxy-N,N-dimethylaniline",8.505149978,700-75-4,CN(C)C1=CC=CC=C1OC,,,NIST,136536.0,alcohol,Oxygenated organics
+643,"4-Chloro-N,N-dimethylaniline",7.556302501,698-69-1,CN(C)C1=CC=C(C=C1)Cl,,,NIST,136530.0,halogeneted,Halogenated organics
+644,"3,4-Dimethoxy-N,N-dimethylaniline",8.944482672,2748-79-0,CN(C)C1=CC(=C(C=C1)OC)OC,,,NIST,20026328.0,diol,Polyfunctional / highly functionalized
+645,"N,N,N',N'-Tetramethyl-m-phenylenediamine",8.86923172,22440-93-3,CN(C)C1=CC(=CC=C1)N(C)C,,,NIST,89715.0,halogeneted,Halogenated organics
+646,"N,N,2,4,6-Pentamethylaniline",8.176091259,13021-15-3,CC1=CC(=C(C(=C1)C)N(C)C)C,,,NIST,139365.0,alkane,Aliphatic hydrocarbons
+647,Glycyl-L-tyrosyl-L-alanine,9.301029996,112898-27-8,C[C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)CN,11.5,,NIST,194988.0,halogeneted,Halogenated organics
+648,Glycyl-L-tyrosyl-L-alanine,8.0,112898-27-8,C[C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)CN,11.5,,NIST,194988.0,halogeneted,Halogenated organics
+649,indole-3-carboxylic acid,7.146128036,771-50-6,C1=CC=C2C(=C1)C(=CN2)C(=O)O,7,,NIST,69867.0,halogeneted,Halogenated organics
+650,Methionine methyl ester,7.146128036,10332-17-9,COC(=O)[C@H](CCSC)N,,,NIST,64684.0,alcohol,Oxygenated organics
+651,Methionine methyl ester,8.004321374,10332-17-9,COC(=O)[C@H](CCSC)N,7,,NIST,64684.0,alcohol,Oxygenated organics
+652,Methionine methyl ester,6.079181246,10332-17-9,COC(=O)[C@H](CCSC)N,,,NIST,64684.0,alcohol,Oxygenated organics
+653,Methionine methyl ester,6.84509804,10332-17-9,COC(=O)[C@H](CCSC)N,7,,NIST,64684.0,alcohol,Oxygenated organics
+654,HisGly,7.146128036,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,,,NIST,142774.0,cyclo,Aromatic & PAHs
+655,HisGly,7.812913357,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,142774.0,cyclo,Aromatic & PAHs
+656,HisGly,6.86923172,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,,,NIST,142774.0,cyclo,Aromatic & PAHs
+657,HisGly,7.819543936,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,142774.0,cyclo,Aromatic & PAHs
+658,Manganese(III) mesoporphyrin diethyl ester,9.176091259,14172-93-1,,,,NIST,,ester,Oxygenated organics
+659,"2,6-Bis(1,1-dimethylethyl)-4-[1-[2,6-bis(1,1-dimethylethyl)telluropyran-4-ylidene]-3-propenyl]telluropyrylium",8.903089987,,,,,NIST,,phosphorus,Phosphorus-containing organics
+660,"2,6-Bis(1,1-dimethylethyl)-4-[1-[2,6-bis(1,1-dimethylethyl)selenopyran-4-ylidene]-3-propenyl]selenopyrylium",6.698970004,,,,,NIST,,phosphorus,Phosphorus-containing organics
+661,"2,6-Bis(1,1-dimethylethyl)-4-[1-[2,6-bis(1,1-dimethylethyl)selenopyran-4-ylidene]-3-propenyl]thiopyrylium",6.954242509,,,,,NIST,,phosphorus,Phosphorus-containing organics
+662,"4,4'-(1,3-Propenyl)bis[2,6-di(1,1-dimethylethyl)pyrylium]",5.477121255,,,,,NIST,,phosphorus,Phosphorus-containing organics
+663,"N-[5-Hydroxy-8-[[2-(methylsulfonyl)-4-nitrophenyl]azo]-1-naphthalenyl-1,3-benzenedisulfonamide, conjugate dibase",8.698970004,,,,,NIST,,amide,Nitrogen-containing organics
+664,"N-[5-Hydroxy-8-[[2-(methylsulfonyl)-4-nitrophenyl]azo]-1-naphthalenyl-1,3-benzenedisulfonamide, conjugate base",8.113943352,,,,,NIST,,amide,Nitrogen-containing organics
+665,"2,6-Diphenyl-4-(2,6-diphenyltelluropyran-4-ylidene)methyltelluropyrylium",7.0,,,,,NIST,,phosphorus,Phosphorus-containing organics
+666,Rhodopsin,9.041392685,564-87-4,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C,8,,NIST,1070.0,alkane,Aliphatic hydrocarbons
+667,Luciferase,9.278753601,61970-00-1,CC(C)C(CO)NC1=NN2C(=NC=C2C3=CC=C(C=C3)C#N)C=C1,8,,NIST,46213588.0,cyclo,Aromatic & PAHs
+668,Cyanohemoglobin,9.071882007,,,7,,NIST,,amine,Nitrogen-containing organics
+669,"N,N,4-Trimethylaniline",8.041392685,99-97-8,CC1=CC=C(C=C1)N(C)C,,,NIST,7471.0,alkane,Aliphatic hydrocarbons
+670,"[N,N'-Propylenebis(5-sulfosalicylideneiminato)]nickelate(II) disodium salt",9.113943352,98584-92-0,,,,NIST,,phosphorus,Phosphorus-containing organics
+671,"[N,N'-o-Phenylenebis(5-sulfosalicylideneiminato)]nickelate(II) disodium salt",8.0,98508-43-1,,,,NIST,,phosphorus,Phosphorus-containing organics
+672,"[N,N'-Ethylenebis(5-sulfosalicylideneiminato)]nickelate(II) disodium salt",9.204119983,98479-61-9,,,,NIST,,amine,Nitrogen-containing organics
+673,Indole-3-butyrate ion,7.857332496,98262-99-8,,7,,NIST,,pyridine,Heterocycles
+674,"2,5-Diphenyloxazole",8.204119983,92-71-7,C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=CC=C3,,,NIST,7105.0,cyclo,Aromatic & PAHs
+675,"2,5-Diphenyloxazole",8.204119983,92-71-7,C1=CC=C(C=C1)C2=CN=C(O2)C3=CC=CC=C3,,,NIST,7105.0,cyclo,Aromatic & PAHs
+676,NADH dehydrogenase,8.230448921,9079-67-8,,7.4,,NIST,,amine,Nitrogen-containing organics
+677,Succinate dehydrogenase,9.136720567,9002/2/2,,7.4,,NIST,,amine,Nitrogen-containing organics
+678,Mn(acac)2(H2O)2+,7.397940009,82931-96-2,,,,NIST,,amine,Nitrogen-containing organics
+679,Phosphatidylcholine,5.875061263,8002-43-5,CCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCC,,,NIST,26197.0,diol,Polyfunctional / highly functionalized
+680,NiCl2,7.477121255,7718-54-9,[Ni],,,NIST,935.0,halogeneted,Halogenated organics
+681,2-Sulfonatophenyl-N-tert-butylnitrone,7.973127854,73475-11-3,CCC(C)/[N+](=C/C1=CC=CC=C1S(=O)(=O)[O-])/[O-].[Na+],,,NIST,6440287.0,alkane,Aliphatic hydrocarbons
+682,Dimethyldithiocarbamate ion,7.903089987,7234-39-1,CC1CCC23CCC(=O)C2C1(C(CC(C(C3C)OC(=O)CBr)(C)C=C)O)C,7.1,,NIST,5250130.0,alcohol,Oxygenated organics
+683,Co(OAc)2,7.602059991,71-48-7,CC(=O)[O-].CC(=O)[O-].[Co+2],,,NIST,6277.0,diol,Polyfunctional / highly functionalized
+684,Methyl 4-methylphenyl sulfide,7.505149978,623-13-2,CC1=CC=C(C=C1)SC,,,NIST,69334.0,"sulfide, disulfide",Sulfur-containing organics
+685,N-Methylthiourea,6.301029996,598-52-7,CSC(=N)N,7.1,,NIST,5142.0,"sulfide, disulfide",Sulfur-containing organics
+686,Mn(acac)2(CH2ClCO2),7.431363764,56266-20-7,,,,NIST,,amine,Nitrogen-containing organics
+687,N-Allylurea,5.301029996,557-11-9,C=CCNC(=O)N,7.1,,NIST,11181.0,halogeneted,Halogenated organics
+688,3-Amino-2-hydroxypropanethiol,5.903089987,55064-80-7,C(C(CS)O)N,,,NIST,22623510.0,halogeneted,Halogenated organics
+689,Ni(OAc)2,7.301029996,373-02-4,CC(=O)[O-].CC(=O)[O-].[Ni+2],,,NIST,9756.0,alkane,Aliphatic hydrocarbons
+690,Mn(acac)2(OAc),7.342422681,34424-01-6,,,,NIST,,amine,Nitrogen-containing organics
+691,Mn(acac)2(CCl3CO2),7.342422681,32839-68-2,,,,NIST,,amine,Nitrogen-containing organics
+692,Ni(acac)2,8.176091259,3264-82-2,C1=CC=C(C=C1)C2(C3=CC=CC=C3C4=CC=CC=C42)Br,,,NIST,231624.0,halogeneted,Halogenated organics
+693,4-(Aminomethylene)-3-methyl-1-phenyl-2-pyrazoline-5-thione,7.929418926,24628-84-0,,,,NIST,,phosphorus,Phosphorus-containing organics
+694,"2,2,6,6-Tetramethylpiperidin-4-ol",7.602059991,2403-88-5,CC1(CC(CC(N1)(C)C)O)C,8,,NIST,75471.0,alkane,Aliphatic hydrocarbons
+695,"4-(Methylthio)-N,N-dimethylaniline",8.556302501,2388-51-4,CN(C)C1=CC=C(C=C1)SC,,,NIST,137574.0,"sulfide, disulfide",Sulfur-containing organics
+696,Cobalt(II) mesoporphyrin,9.176091259,21158-51-0,[H+].[H+].CCC1=C(C2=NC1=CC3=C(C(=C([N-]3)C=C4C(=C(C(=CC5=NC(=C2)C(=C5C)CC)[N-]4)C)CCC(=O)[O-])CCC(=O)[O-])C)C.[Co+2],,,NIST,161350.0,diol,Polyfunctional / highly functionalized
+697,Nickel(II) mesoporphyrin,9.0,19414-13-2,,,,NIST,,phosphorus,Phosphorus-containing organics
+698,4-Methoxyphenyl methyl sulfide,7.662757832,1879-16-9,COC1=CC=C(C=C1)SC,,,NIST,15885.0,"sulfide, disulfide",Sulfur-containing organics
+699,"3-Methoxy-N,N-dimethylaniline",7.924279286,15799-79-8,CN(C)C1=CC(=CC=C1)OC,,,NIST,139977.0,alcohol,Oxygenated organics
+700,Sodium dodecyl sulfate,9.0,151-21-3,CCCCCCCCCCCCOS(=O)(=O)O,,,NIST,8778.0,"sulfide, disulfide",Sulfur-containing organics
+701,Cobalt(II) meso-tetraphenylporphyrin,8.477121255,14172-90-8,C1=CC=C(C=C1)C2=C3C=CC(=C(C4=NC(=C(C5=CC=C([N-]5)C(=C6C=CC2=N6)C7=CC=CC=C7)C8=CC=CC=C8)C=C4)C9=CC=CC=C9)[N-]3.[Co+2],,,NIST,518893.0,halogeneted,Halogenated organics
+702,Mn(acac)3,8.204119983,14024-58-9,CC(=O)CC(=O)C.CC(=O)CC(=O)C.[Mn],,,NIST,407386.0,alkane,Aliphatic hydrocarbons
+703,Mercurochrome,8.307496038,129-16-8,C1=CC=C2C(=C1)C(=O)OC23C4=CC(=C(C=C4OC5=C(C(=C(C=C35)Br)[O-])[Hg])[O-])Br.O.[Na+].[Na+],,,NIST,8505.0,diol,Polyfunctional / highly functionalized
+704,"2,6-Bis(1,1-dimethylethyl)-4-[1-[2,6-bis(1,1-dimethylethyl)thiopyran-4-ylidene]-3-propenyl]thiopyrylium",7.113943352,124620-02-6,,,,NIST,,phosphorus,Phosphorus-containing organics
+705,Dodecyltrimethylammonium chloride,8.230448921,112-00-5,CCCCCCCCCCCC[N+](C)(C)C.[Cl-],,,NIST,8152.0,alkane,Aliphatic hydrocarbons
+706,4-(Methylthio)phenol,8.204119983,1073-72-9,CSC1=CC=C(C=C1)O,,,NIST,14086.0,"sulfide, disulfide",Sulfur-containing organics
+707,4-(Methylthio)phenol,8.113943352,1073-72-9,CSC1=CC=C(C=C1)O,,,NIST,14086.0,"sulfide, disulfide",Sulfur-containing organics
+708,Methyl phenyl sulfide,7.361727836,100-68-5,CSC1=CC=CC=C1,,,NIST,7520.0,"sulfide, disulfide",Sulfur-containing organics
+709,"1,4-naphthalenedipropionic acid",5.127104798,20161-80-8,,,,NIST,,phosphorus,Phosphorus-containing organics
+710,"1,4-naphthalenedipropionic acid",4.763427994,20161-80-8,,,,NIST,,phosphorus,Phosphorus-containing organics
+711,"1,4-naphthalenedipropionic acid",4.77815125,20161-80-8,,,,NIST,,phosphorus,Phosphorus-containing organics
+712,"1,4-naphthalenedipropionic acid",6.152288344,20161-80-8,,,,NIST,,phosphorus,Phosphorus-containing organics
+713,"4-Methyl-2,6-dinitrophenoxide ",7.155336037,609-93-8,CC1=CC(=C(C(=C1)[N+](=O)[O-])O)[N+](=O)[O-],,,NIST,11872.0,diol,Polyfunctional / highly functionalized
+714,2-benzylphenol,7.643452676,14123-89-2,,11,,NIST,,phosphorus,Phosphorus-containing organics
+715,4-Methyl-1-naphthalenepropionate ion endoperoxide,8.954242509,,,,,NIST,,phosphorus,Phosphorus-containing organics
+716,5-Iminodaunomycin,9.544068044,72983-78-9,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=N)C(=CC=C5)OC)O)(C(=O)C)O)N)O,7.8,,NIST,72400.0,diol,Polyfunctional / highly functionalized
+717,5-Iminodaunomycin,9.505149978,72983-78-9,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=N)C(=CC=C5)OC)O)(C(=O)C)O)N)O,7.8,,NIST,72400.0,diol,Polyfunctional / highly functionalized
+718,"4,4'-Diacetamidostilbene-2,2'-disulfonate ion",5.255272505,2479-70-7,,,,NIST,,amine,Nitrogen-containing organics
+719,"4,4'-(4,7-Dihydro-5,6-dimethylisobenzofuran-1,3-diyl)bis(benzene-p-decanoate ion)",8.477121255,,,10,,NIST,,"sulfide, disulfide",Sulfur-containing organics
+720,"4,4'-(4,7-Dihydro-5,6-dimethylisobenzofuran-1,3-diyl)bis(benzene-p-decanoate ion)",7.851258349,,,10,,NIST,,"sulfide, disulfide",Sulfur-containing organics
+721,"Methyl salicylate, conjugate base",8.204119983,119-36-8,COC(=O)C1=CC=CC=C1O,10,,NIST,4133.0,alcohol,Oxygenated organics
+722,"9,10-Anthracenediethanesulfonate ion",7.672097858,,,,,NIST,,amine,Nitrogen-containing organics
+723,4-Chlororesorcinol,7.322219295,95-88-5,C1=CC(=C(C=C1O)O)Cl,,,NIST,1731.0,halogeneted,Halogenated organics
+724,"4-bromo-2,6-dimethylphenol",9.414973348,2374-50-5,,11,,NIST,,phosphorus,Phosphorus-containing organics
+725,"4-bromo-2,6-dimethylphenol",8.591064607,2374-50-5,,11,,NIST,,phosphorus,Phosphorus-containing organics
+726,"9,10-Dimethylanthracene",8.301029996,781-43-1,CC1=C2C=CC=CC2=C(C3=CC=CC=C13)C,,,NIST,13076.0,cyclo,Aromatic & PAHs
+727,"9,10-Dimethylanthracene",8.301029996,781-43-1,CC1=C2C=CC=CC2=C(C3=CC=CC=C13)C,,,NIST,13076.0,cyclo,Aromatic & PAHs
+728,9-Methylanthracene,7.230448921,779-02-2,CC1=C2C=CC=CC2=CC3=CC=CC=C13,,,NIST,13068.0,cyclo,Aromatic & PAHs
+729,Bixin,9.84509804,6983-79-5,CC(=CC=CC=C(C)C=CC=C(C)C=CC(=O)OC)C=CC=C(C)C=CC(=O)O,7.8,,NIST,91556.0,alcohol,Oxygenated organics
+730,4-methyl-2-nitrophenol,8.531478917,99-53-6,CC1=C(C=CC(=C1)[N+](=O)[O-])O,,,NIST,7442.0,alkane,Aliphatic hydrocarbons
+731,4-methyl-2-nitrophenol,9.633468456,99-53-6,CC1=C(C=CC(=C1)[N+](=O)[O-])O,10,,NIST,7442.0,alkane,Aliphatic hydrocarbons
+732,4-methyl-2-nitrophenol,7.77815125,99-53-6,CC1=C(C=CC(=C1)[N+](=O)[O-])O,,,NIST,7442.0,alkane,Aliphatic hydrocarbons
+733,4-methyl-2-nitrophenol,7.447158031,99-53-6,CC1=C(C=CC(=C1)[N+](=O)[O-])O,10,,NIST,7442.0,alkane,Aliphatic hydrocarbons
+734,Tyrosylglycine,7.477121255,673-08-5,CC1(CCCC1)O,10,,NIST,73830.0,alkane,Aliphatic hydrocarbons
+735,Tyrosylglycine,7.633468456,673-08-5,CC1(CCCC1)O,11.5,,NIST,73830.0,alkane,Aliphatic hydrocarbons
+736,Tyrosylglycine,7.633468456,673-08-5,CC1(CCCC1)O,11.5,,NIST,73830.0,alkane,Aliphatic hydrocarbons
+737,3-Chloro-5-methoxyphenol,3.0,65262-96-6,COC1=CC(=CC(=C1)O)Cl,,,NIST,103339.0,alcohol,Oxygenated organics
+738,"9-cis-6,6'-Diapocarotene",9.77815125,514-85-4,,7.8,,NIST,,phosphorus,Phosphorus-containing organics
+739,"2,2'-dihydroxybiphenyl",7.342422681,1806-29-7,C1=CC=C(C(=C1)C2=CC=CC=C2O)O,11,,NIST,15731.0,cyclo,Aromatic & PAHs
+740,"4-Chloro-1,3-benzenediol",7.230448921,95-88-5,C1=CC(=C(C=C1O)O)Cl,,,NIST,1731.0,halogeneted,Halogenated organics
+741,"9,10-Dimethylbenz[a]anthracene",9.397940009,57-97-6,CC1=C2C=CC3=CC=CC=C3C2=C(C4=CC=CC=C14)C,,,NIST,6001.0,cyclo,Aromatic & PAHs
+742,3-Hydroxyflavone,8.361727836,577-85-5,C1=CC=C(C=C1)C2=C(C(=O)C3=CC=CC=C3O2)O,12,,NIST,11349.0,cyclo,Aromatic & PAHs
+743,"1,4-Dimethylnaphthalene",5.371067862,571-58-4,CC1=CC=C(C2=CC=CC=C12)C,,,NIST,11304.0,alkane,Aliphatic hydrocarbons
+744,"1,4-Dimethylnaphthalene",5.56937391,571-58-4,CC1=CC=C(C2=CC=CC=C12)C,,,NIST,11304.0,alkane,Aliphatic hydrocarbons
+745,"1,4-Dimethylnaphthalene",5.103803721,571-58-4,CC1=CC=C(C2=CC=CC=C12)C,,,NIST,11304.0,alkane,Aliphatic hydrocarbons
+746,Crocin,9.707570176,42553-65-1,CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O,7.4,,NIST,3510570.0,diol,Polyfunctional / highly functionalized
+747,3-Nitrophenol,6.431363764,554-84-7,C1=CC(=CC(=C1)O)[N+](=O)[O-],,,NIST,11137.0,halogeneted,Halogenated organics
+748,2-Methoxyphenoxide,8.643452676,,,,,NIST,,phosphorus,Phosphorus-containing organics
+749,"1,3-Diphenylisobenzofuran",8.838849091,5471-63-6,C1=CC=C(C=C1)C2=C3C=CC=CC3=C(O2)C4=CC=CC=C4,,,NIST,21649.0,cyclo,Aromatic & PAHs
+750,"1,3-Diphenylisobenzofuran",9.707570176,5471-63-6,C1=CC=C(C=C1)C2=C3C=CC=CC3=C(O2)C4=CC=CC=C4,,,NIST,21649.0,cyclo,Aromatic & PAHs
+751,"2,6-dichlorophenol",7.755874856,87-65-0,C1=CC(=C(C(=C1)Cl)O)Cl,10,,NIST,6899.0,halogeneted,Halogenated organics
+752,"4,4'-Diaminostilbene-2,2'-disulfonate ion",6.278753601,1981/11/4,,,,NIST,,amine,Nitrogen-containing organics
+753,"2-methyl-4,6-dinitrophenol",5.096910013,534-52-1,CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],,,NIST,10800.0,alkane,Aliphatic hydrocarbons
+754,2-Phenylphenoxide ion,5.505149978,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],8,,NIST,4141522.0,cyclo,Aromatic & PAHs
+755,2-Phenylphenoxide ion,6.505149978,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],9,,NIST,4141522.0,cyclo,Aromatic & PAHs
+756,2-Phenylphenoxide ion,6.505149978,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],9,,NIST,4141522.0,cyclo,Aromatic & PAHs
+757,2-Phenylphenoxide ion,6.770852012,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],10,,NIST,4141522.0,cyclo,Aromatic & PAHs
+758,2-Phenylphenoxide ion,6.770852012,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],10,,NIST,4141522.0,cyclo,Aromatic & PAHs
+759,2-Phenylphenoxide ion,7.643452676,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],11,,NIST,4141522.0,cyclo,Aromatic & PAHs
+760,2-Phenylphenoxide ion,7.643452676,46175-93-3,C1=CC=C(C=C1)C2=CC=CC=C2[O-],11,,NIST,4141522.0,cyclo,Aromatic & PAHs
+761,4-Acetoxymethyl-2-(phenylmethyl)furan,8.915927212,13681-41-7,,,,NIST,,furan,Heterocycles
+762,4-tert-butylphenol,8.550228353,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,,,NIST,7393.0,alkane,Aliphatic hydrocarbons
+763,"2,6-dimethylphenol",9.447158031,576-26-1,CC1=C(C(=CC=C1)C)O,11,,NIST,11335.0,alkane,Aliphatic hydrocarbons
+764,"2,6-dimethylphenol",8.290034611,576-26-1,CC1=C(C(=CC=C1)C)O,11,,NIST,11335.0,alkane,Aliphatic hydrocarbons
+765,4-Hydroxymethyl-2-(phenylmethyl)furan,8.195899652,13681-41-7,,,,NIST,,diol,Polyfunctional / highly functionalized
+766,"2,4-dinitrophenol",5.607455023,51-28-5,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])O,,,NIST,1493.0,diol,Polyfunctional / highly functionalized
+767,4-tert-butylphenol,7.372912003,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,,,NIST,7393.0,alkane,Aliphatic hydrocarbons
+768,Methyl salicylate,6.301029996,119-36-8,COC(=O)C1=CC=CC=C1O,,,NIST,4133.0,alcohol,Oxygenated organics
+769,"9,10-anthracenedipropionic acid",8.079181246,20161-80-8,,6.8,,NIST,,phosphorus,Phosphorus-containing organics
+770,"2,5-Dihydroxybiphenyl",7.380211242,1079-21-6,C1=CC=C(C=C1)C2=C(C=CC(=C2)O)O,8,,NIST,14116.0,halogeneted,Halogenated organics
+771,3-Hydroxydiphenylamine,7.480006943,101-18-8,C1=CC=C(C=C1)NC2=CC(=CC=C2)O,,,NIST,7546.0,halogeneted,Halogenated organics
+772,4-iodophenol,9.0,540-38-5,C1=CC(=CC=C1O)I,11,,NIST,10894.0,halogeneted,Halogenated organics
+773,4-iodophenol,7.903089987,540-38-5,C1=CC(=CC=C1O)I,11,,NIST,10894.0,halogeneted,Halogenated organics
+774,"2,6-dimethoxyphenol",8.936010796,2486-69-7,,,,NIST,,phosphorus,Phosphorus-containing organics
+775,Tyramine,8.447158031,51-67-2,C1=CC(=CC=C1CCN)O,10,,NIST,5610.0,halogeneted,Halogenated organics
+776,2-Nitrophenol,6.113943352,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,,,NIST,6947.0,halogeneted,Halogenated organics
+777,"4-Methoxy-N,N-dimethylaniline",8.643452676,701-56-4,CN(C)C1=CC=C(C=C1)OC,,,NIST,69700.0,alcohol,Oxygenated organics
+778,Merocyanine 540,9.650307523,62796-23-0,CCCCN1C(=O)C(=CC=CC=C2N(C3=CC=CC=C3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=S)CCCC.[Na+],,,NIST,4072.0,"sulfide, disulfide",Sulfur-containing organics
+779,Merocyanine 540,9.765668555,62796-23-0,CCCCN1C(=O)C(=CC=CC=C2N(C3=CC=CC=C3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=S)CCCC.[Na+],,,NIST,4072.0,"sulfide, disulfide",Sulfur-containing organics
+780,Merocyanine 540,7.477121255,62796-23-0,CCCCN1C(=O)C(=CC=CC=C2N(C3=CC=CC=C3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=S)CCCC.[Na+],,,NIST,4072.0,"sulfide, disulfide",Sulfur-containing organics
+781,Merocyanine 540,7.968015714,62796-23-0,CCCCN1C(=O)C(=CC=CC=C2N(C3=CC=CC=C3O2)CCCS(=O)(=O)[O-])C(=O)N(C1=S)CCCC.[Na+],,,NIST,4072.0,"sulfide, disulfide",Sulfur-containing organics
+782,dimethylcarbene,8.041392685,40852-89-9,,7,,NIST,,amine,Nitrogen-containing organics
+783,Pentachlorophenoxide ion,7.971275849,46012-02-6,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[O-],,,NIST,4269236.0,halogeneted,Halogenated organics
+784,Rose Bengal dianion,7.176091259,632-69-9,C1=C2C(=C3C=C(C(=O)C(=C3OC2=C(C(=C1I)[O-])I)I)I)C4=C(C(=C(C(=C4Cl)Cl)Cl)Cl)C(=O)[O-].[K+].[K+],,,NIST,25473.0,halogeneted,Halogenated organics
+785,6-(Flucycline) luciferin,7.903089987,102557-34-4,,7.1,,NIST,,amine,Nitrogen-containing organics
+786,"2-Methyl-6-phenylimidazo[1,2-a]pyrazin-3-one",9.46834733,,,5.4,,NIST,,phosphorus,Phosphorus-containing organics
+787,"2-Methyl-6-phenylimidazo[1,2-a]pyrazin-3-one",8.799340549,,,7.1,,NIST,,phosphorus,Phosphorus-containing organics
+788,DNA,5.707570176,,,7,,NIST,,amine,Nitrogen-containing organics
+789,DNA,6.361727836,,,10.5,,NIST,,amine,Nitrogen-containing organics
+790,DNA,6.361727836,,,10.5,,NIST,,amine,Nitrogen-containing organics
+791,Flavocytochrome b2 (Fe3+),8.146128036,6-(Flucycline) luciferin,,7.4,,NIST,,halogeneted,Halogenated organics
+792,Lysozyme,8.643452676,12650-88-3,CCC(C)C(C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C5CCCN5C(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N)N,5.9,,NIST,91976556.0,alkane,Aliphatic hydrocarbons
+793,Lysozyme,8.113943352,12650-88-3,CCC(C)C(C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C5CCCN5C(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N)N,,,NIST,91976556.0,alkane,Aliphatic hydrocarbons
+794,Cytochrome C oxidase,8.0,9001-16-5,,7.4,,NIST,,"sulfide, disulfide",Sulfur-containing organics
+795,Glycyl-methionine,7.176091259,39630-47-2,,,,NIST,,amine,Nitrogen-containing organics
+796,Glycyl-methionine,7.954242509,39630-47-2,,7,,NIST,,amine,Nitrogen-containing organics
+797,Glycyl-methionine,6.176091259,39630-47-2,,,,NIST,,amine,Nitrogen-containing organics
+798,Glycyl-methionine,7.113943352,39630-47-2,,7,,NIST,,amine,Nitrogen-containing organics
+799,Tryptophylglycine,7.51851394,7360-09-0,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)NCC(=O)O)N,7,,NIST,97054.0,halogeneted,Halogenated organics
+800,indole-3-propionic acid,7.86332286,830-96-6,C1=CC=C2C(=C1)C(=CN2)CCC(=O)O,7,,NIST,3744.0,halogeneted,Halogenated organics
+801,Ferrocytochrome C,8.748188027,	9007-43-6,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C(C)SCC(C(=O)NC)N)C)C(C)SCC(C(=O)NC)N)C)CCC(=O)O)CCC(=O)O.[Fe+2],7.4,,NIST,16057918.0,"sulfide, disulfide",Sulfur-containing organics
+802,9-anthroic acid,7.301029996,71-48-7,CC(=O)[O-].CC(=O)[O-].[Co+2],,,NIST,6277.0,diol,Polyfunctional / highly functionalized
+803,4-(2-Pyridyl-N-oxide)-N-tert-butylnitrone,8.079181246,3376-24-7,CC(C)(C)[N+](=CC1=CC=CC=C1)[O-],,,NIST,4390.0,alkane,Aliphatic hydrocarbons
+804,Indole-3-acetate ion,9.0,93672-51-6,C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-],7,,NIST,801.0,halogeneted,Halogenated organics
+805,Indole-3-acetate ion,7.963787827,93672-51-6,C1=CC=C2C(=C1)C(=CN2)CC(=O)[O-],7,,NIST,801.0,halogeneted,Halogenated organics
+806,Glycyl-histidine,7.579783597,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,,,NIST,142774.0,cyclo,Aromatic & PAHs
+807,Glycyl-histidine,8.361727836,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,142774.0,cyclo,Aromatic & PAHs
+808,Glycyl-histidine,6.963787827,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,,,NIST,142774.0,cyclo,Aromatic & PAHs
+809,Glycyl-histidine,7.919078092,2489-13-6,C1=NC=NC1C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,142774.0,cyclo,Aromatic & PAHs
+810,Ascorbate ion,6.919078092,299-36-5,COC1=CC(=CC(=C1O)OC)[C@H]2[C@@H]3[C@H](COC3=O)[C@@H](C4=CC5=C(C=C24)OCO5)OC6C(C(C7C(O6)COC(O7)C8=CC=CS8)O)O,6.8,,NIST,275784.0,diol,Polyfunctional / highly functionalized
+811,Glycyltryptophan,8.301029996,2390-74-1,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,92181.0,halogeneted,Halogenated organics
+812,Glycyltryptophan,7.707570176,2390-74-1,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)NC(=O)CN,7,,NIST,92181.0,halogeneted,Halogenated organics
+813,4-Hydroxyacetophenone,6.176091259,99-93-4,CC(=O)C1=CC=C(C=C1)O,,,NIST,7469.0,alkane,Aliphatic hydrocarbons
+814,4-tert-Butylphenol,6.0,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,,,NIST,7393.0,alkane,Aliphatic hydrocarbons
+815,Furfuryl alcohol,8.146128036,98-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],,,NIST,4130.0,diol,Polyfunctional / highly functionalized
+816,2-Chlorophenol,6.963787827,95-57-8,C1=CC=C(C(=C1)O)Cl,,,NIST,7245.0,halogeneted,Halogenated organics
+817,"3,6-Diaminoacridine",8.84509804,92-62-6,C(C1C(C(C(C(O1)O)O)O)O)O,5.9,,NIST,206.0,diol,Polyfunctional / highly functionalized
+818,"2,6-Dimethoxyphenol",7.556302501,1991/10/1,COC1=C(C(=CC=C1)OC)O,,,NIST,7041.0,diol,Polyfunctional / highly functionalized
+819,"Copper,Zinc Superoxide Dismutase",9.436162647,9054-89-1,CC(CBr)O,7.1,,NIST,29740.0,alkane,Aliphatic hydrocarbons
+820,2'-Deoxyguanosine 5'-monophosphate,6.72427587,902-04-5,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O,7,,NIST,12599.0,diol,Polyfunctional / highly functionalized
+821,2'-Deoxyguanosine 5'-monophosphate,7.755874856,902-04-5,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O,10.5,,NIST,12599.0,diol,Polyfunctional / highly functionalized
+822,2'-Deoxyguanosine 5'-monophosphate,7.755874856,902-04-5,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O,10.5,,NIST,12599.0,diol,Polyfunctional / highly functionalized
+823,2-Methoxyphenol,6.77815125,1990/5/1,COC1=CC=CC=C1O,,,NIST,460.0,alcohol,Oxygenated organics
+824,Pentachlorophenol,5.301029996,87-86-5,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)O,,,NIST,992.0,halogeneted,Halogenated organics
+825,Acriflavine cation,8.954242509,8063-24-9,C[N+]1=C2C=C(C=CC2=CC3=C1C=C(C=C3)N)N,5.9,,NIST,2016.0,halogeneted,Halogenated organics
+826,Hydrazoic acid,6.301029996,7783-63-3,F[Ti](F)(F)F,1.9,,NIST,121824.0,halogeneted,Halogenated organics
+827,4-Cyanophenol,5.380211242,767-00-0,C1=CC(=CC=C1C#N)O,,,NIST,13019.0,halogeneted,Halogenated organics
+828,Guanine,5.698970004,73-40-5,CO,,,NIST,887.0,halogeneted,Halogenated organics
+829,Adenine,4.857332496,73-24-5,C1=NC2=NC=NC(=C2N1)N,,,NIST,190.0,halogeneted,Halogenated organics
+830,Adenine,6.0,73-24-5,C1=NC2=NC=NC(=C2N1)N,7.1,,NIST,190.0,halogeneted,Halogenated organics
+831,Carotene,9.799340549,7488-99-5,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CCCC2(C)C)C)C)C,,,NIST,24090.0,alkane,Aliphatic hydrocarbons
+832,Carotene,9.342422681,7488-99-5,CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=CC=C(C)C=CC=C(C)C=CC2C(=CCCC2(C)C)C)C)C,,,NIST,24090.0,alkane,Aliphatic hydrocarbons
+833,Cytosine,4.832508913,71-30-7,C1=C(NC(=O)N=C1)N,,,NIST,597.0,cyclo,Aromatic & PAHs
+834,Methylene Blue cation,8.477121255,61-73-4,CN(C)C1=CC2=C(C=C1)N=C3C=CC(=[N+](C)C)C=C3S2,5.9,,NIST,4139.0,"sulfide, disulfide",Sulfur-containing organics
+835,His,7.204119983,71-00-1,C1=C(NC=N1)CC(C(=O)O)N,,,NIST,773.0,halogeneted,Halogenated organics
+836,His,7.698970004,71-00-1,C1=C(NC=N1)CC(C(=O)O)N,,,NIST,773.0,halogeneted,Halogenated organics
+837,His,6.908485019,71-00-1,C1=C(NC=N1)CC(C(=O)O)N,,,NIST,773.0,halogeneted,Halogenated organics
+838,Met,6.954242509,63-68-3,CSCCC(C(=O)O)N,,,NIST,876.0,"sulfide, disulfide",Sulfur-containing organics
+839,Met,7.477121255,63-68-3,CSCCC(C(=O)O)N,,,NIST,876.0,"sulfide, disulfide",Sulfur-containing organics
+840,Met,6.477121255,63-68-3,CSCCC(C(=O)O)N,,,NIST,876.0,"sulfide, disulfide",Sulfur-containing organics
+841,Met,6.698970004,63-68-3,CSCCC(C(=O)O)N,,,NIST,876.0,"sulfide, disulfide",Sulfur-containing organics
+842,Met,7.322219295,63-68-3,CSCCC(C(=O)O)N,7,,NIST,876.0,"sulfide, disulfide",Sulfur-containing organics
+843,Arg,6.0,14791-73-2,C(=O)(O)O.[Ca],7.1,,NIST,6335838.0,halogeneted,Halogenated organics
+844,α-(4-Pyridyl)-tert-butyl nitrone,8.146128036,3376-24-7,CC(C)(C)[N+](=CC1=CC=CC=C1)[O-],,,NIST,4390.0,alkane,Aliphatic hydrocarbons
+845,4-(N-Methylpyridinium)-tert-butylnitrone,7.903089987,,,,,NIST,,nitro,Nitrogen-containing organics
+846,Tryptophan,7.477121255,73-22-3,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,,,NIST,1148.0,halogeneted,Halogenated organics
+847,Ala,7.0,56-41-7,CC(C(=O)O)N,,,NIST,602.0,alkane,Aliphatic hydrocarbons
+848,Ala,7.477121255,56-41-7,CC(C(=O)O)N,10.6,,NIST,602.0,alkane,Aliphatic hydrocarbons
+849,Deoxyadenosine monophosphate,5.0,653-63-4,C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)O)O,7,,NIST,621.0,diol,Polyfunctional / highly functionalized
+850,5-Methyluracil,4.397940009,65-71-4,CC1=CNC(=O)NC1=O,,,NIST,1135.0,cyclo,Aromatic & PAHs
+851,5-Methyluracil,6.0,65-71-4,CC1=CNC(=O)NC1=O,7.1,,NIST,1135.0,cyclo,Aromatic & PAHs
+852,Cytidine,6.0,65-46-3,C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O,7.1,,NIST,596.0,diol,Polyfunctional / highly functionalized
+853,Bilirubin,9.755874856,635-65-4,CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)C=C3C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)C=C4C(=C(C(=O)N4)C=C)C,,,NIST,250.0,alkane,Aliphatic hydrocarbons
+854,Bilirubin,9.0,635-65-4,CC1=C(NC(=C1CCC(=O)O)CC2=C(C(=C(N2)C=C3C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)C=C4C(=C(C(=O)N4)C=C)C,,,NIST,250.0,alkane,Aliphatic hydrocarbons
+855,"2,5-Dimethylfuran",8.913813852,625-86-5,CC1=CC=C(O1)C,7,,NIST,12266.0,alkane,Aliphatic hydrocarbons
+856,Thiourea,8.0,62-56-6,C(=S)(N)N,,,NIST,2723790.0,halogeneted,Halogenated organics
+857,Thiourea,6.643452676,62-56-6,C(=S)(N)N,7.1,,NIST,2723790.0,halogeneted,Halogenated organics
+858,Tryptamine,7.740362689,61-54-1,C1=CC=C2C(=C1)C(=CN2)CCN,,,NIST,1150.0,halogeneted,Halogenated organics
+859,Tryptamine,6.954242509,61-54-1,C1=CC=C2C(=C1)C(=CN2)CCN,,,NIST,1150.0,halogeneted,Halogenated organics
+860,Tryptamine,9.892094603,61-54-1,C1=CC=C2C(=C1)C(=CN2)CCN,7,,NIST,1150.0,halogeneted,Halogenated organics
+861,NH3,6.919078092,7664-41-7,N,,,NIST,222.0,amine,Nitrogen-containing organics
+862,DOPA,8.954242509,59-92-7,C1=CC(=C(C=C1CC(C(=O)O)N)O)O,,,NIST,836.0,diol,Polyfunctional / highly functionalized
+863,α-Tocopherol,9.414973348,1959/2/9,CC1=C(C2=C(CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C)C(=C1O)C)C,,,NIST,2116.0,alkane,Aliphatic hydrocarbons
+864,NADH,9.301029996,58-68-4,C1C=CN(C=C1C(=O)N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O,7.4,,NIST,928.0,diol,Polyfunctional / highly functionalized
+865,Adenosine,6.0,58-61-7,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N,7.1,,NIST,191.0,diol,Polyfunctional / highly functionalized
+866,Cholesterol,8.397940009,57-88-5,CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,,,NIST,304.0,cyclo,Aromatic & PAHs
+867,Tyrosine,7.579783597,60-18-4,C1=CC(=CC=C1CC(C(=O)O)N)O,10,,NIST,1153.0,halogeneted,Halogenated organics
+868,Tyrosine,7.716003344,60-18-4,C1=CC(=CC=C1CC(C(=O)O)N)O,11.5,,NIST,1153.0,halogeneted,Halogenated organics
+869,Tyrosine,7.716003344,60-18-4,C1=CC(=CC=C1CC(C(=O)O)N)O,11.5,,NIST,1153.0,halogeneted,Halogenated organics
+870,Penicillamine,6.380211242,52-67-5,CC(C)(C(C(=O)O)N)S,,,NIST,4727.0,"sulfide, disulfide",Sulfur-containing organics
+871,Mitomycin C,9.949390007,1950/7/7,CC1=C(C(=O)C2=C(C1=O)N3CC(CC3=C2COC(=O)N)N)N,,,NIST,4210.0,alkane,Aliphatic hydrocarbons
+872,"1,4-benzenediol",7.748188027,123-31-9,C1=CC(=CC=C1O)O,10.6,,NIST,785.0,halogeneted,Halogenated organics
+873,Eosin dianion,7.431363764,17372-87-1,C1=CC=C(C(=C1)C2=C3C=C(C(=O)C(=C3OC4=C(C(=C(C=C24)Br)[O-])Br)Br)Br)C(=O)[O-].[Na+].[Na+],,,NIST,11048.0,halogeneted,Halogenated organics
+874,"Tryptophan, methyl ester",7.591064607,7303-49-3,COC(=O)[C@H](CC1=CNC2=CC=CC=C21)N,,,NIST,77980.0,alcohol,Oxygenated organics
+875,"Tryptophan, methyl ester",6.602059991,7303-49-3,COC(=O)[C@H](CC1=CNC2=CC=CC=C21)N,,,NIST,77980.0,alcohol,Oxygenated organics
+876,Crocin,9.255272505,42553-65-1,CC(=CC=CC=C(C)C=CC=C(C)C(=O)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)C=CC=C(C)C(=O)OC3C(C(C(C(O3)COC4C(C(C(C(O4)CO)O)O)O)O)O)O,7.4,,NIST,3510570.0,diol,Polyfunctional / highly functionalized
+877,3-methoxyphenol,8.45484486,150-19-6,COC1=CC=CC(=C1)O,,,NIST,9007.0,alcohol,Oxygenated organics
+878,Thymidine monophosphate,5.0,365-07-1,CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)O)O,7,,NIST,1139.0,diol,Polyfunctional / highly functionalized
+879,Diethyl sulfide,7.255272505,352-93-2,CCSCC,7,,NIST,9609.0,"sulfide, disulfide",Sulfur-containing organics
+880,N-tert-Butyl-α-phenylnitrone,8.146128036,3376-24-7,CC(C)(C)[N+](=CC1=CC=CC=C1)[O-],,,NIST,4390.0,alkane,Aliphatic hydrocarbons
+881,"5,5-Dimethyl-1-pyrroline N-oxide",7.255272505,3317-61-1,CC1(CCC=[N+]1[O-])C,,,NIST,1774.0,alkane,Aliphatic hydrocarbons
+882,4-fluorophenol,9.397940009,371-41-5,C1=CC(=CC=C1O)F,11,,NIST,9732.0,halogeneted,Halogenated organics
+883,4-fluorophenol,8.544068044,371-41-5,C1=CC(=CC=C1O)F,11,,NIST,9732.0,halogeneted,Halogenated organics
+884,3-(2-mercaptoethylamino) propylamine,6.86923172,,,,,NIST,,phosphorus,Phosphorus-containing organics
+885,8-Methoxypsoralen,9.204119983,298-81-7,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,,,NIST,4114.0,alcohol,Oxygenated organics
+886,2-chlorophenol,8.361727836,95-57-8,C1=CC=C(C(=C1)O)Cl,11.5,,NIST,7245.0,halogeneted,Halogenated organics
+887,4-methoxyphenol,8.824125834,150-76-5,COC1=CC=C(C=C1)O,,,NIST,9015.0,alcohol,Oxygenated organics
+888,Imidazole,7.531478917,288-32-4,C1=CN=CN1,,,NIST,795.0,halogeneted,Halogenated organics
+889,"1,4-Diazabicyclo[2.2.2]octane",8.447158031,280-57-9,C1CN2CCN1CC2,8,,NIST,9237.0,halogeneted,Halogenated organics
+890,Crocetin,9.740362689,27876-94-4,C1=CC2=C(C=C(C=C2)O)C(=C1)S(=O)(=O)O,7.8,,NIST,67237.0,"sulfide, disulfide",Sulfur-containing organics
+891,Co2+,7.301029996,22541-53-3,[Co+2],,,NIST,104729.0,halogeneted,Halogenated organics
+892,Daunomycin,9.230448921,20830-81-3,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O,7.8,,NIST,2958.0,diol,Polyfunctional / highly functionalized
+893,Daunomycin,9.041392685,20830-81-3,CC1C(C(CC(O1)OC2CC(CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O,7.8,,NIST,2958.0,diol,Polyfunctional / highly functionalized
+894,3-Chlorophenoxide ,9.041392685,18938-14-2,,11.5,,NIST,,phosphorus,Phosphorus-containing organics
+895,Tris (phenanthroline) cobalt (II) cation（Co (phen)₃²⁺,6.0,14873-89-1,,,,NIST,,amine,Nitrogen-containing organics
+896,3-nitrophenol,9.301029996,554-84-7,C1=CC(=CC(=C1)O)[N+](=O)[O-],10,,NIST,11137.0,halogeneted,Halogenated organics
+897,2-nitrophenol,7.51851394,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,,,NIST,6947.0,halogeneted,Halogenated organics
+898,2-nitrophenol,9.176091259,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,10,,NIST,6947.0,halogeneted,Halogenated organics
+899,2-nitrophenol,6.763427994,88-75-5,C1=CC=C(C(=C1)[N+](=O)[O-])O,,,NIST,6947.0,halogeneted,Halogenated organics
+900,Tris (phenanthroline) cobalt (II) cation（Co (phen)₃²⁺,6.0,14873-89-1,,,,NIST,,amine,Nitrogen-containing organics
+901,4-Methoxyphenol,7.342422681,150-76-5,COC1=CC=C(C=C1)O,,,NIST,9015.0,alcohol,Oxygenated organics
+902,3-Methoxyphenol,7.113943352,150-19-6,COC1=CC=CC(=C1)O,,,NIST,9007.0,alcohol,Oxygenated organics
+903,Nitrite ion,6.491361694,14797-65-0,N(=O)[O-],8.3,,NIST,946.0,amine,Nitrogen-containing organics
+904,4-cyanophenol,6.788875116,767-00-0,C1=CC(=CC=C1C#N)O,,,NIST,13019.0,halogeneted,Halogenated organics
+905,4-Nitrophenoxide ion,8.77815125,14609-74-6,C1=CC(=CC=C1[N+](=O)[O-])O,10,,NIST,980.0,halogeneted,Halogenated organics
+906,Hematoporphyrin IX,8.903089987,14459-29-1,CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)O)C)C(=C4CCC(=O)O)C)C(=C3C)CCC(=O)O)C(C)O,,,NIST,11103.0,diol,Polyfunctional / highly functionalized
+907,Azide ion,8.586587305,14343-69-2,[N-]=[N+]=[N-],,,NIST,33558.0,amine,Nitrogen-containing organics
+908,Azide ion,8.51851394,14343-69-2,[N-]=[N+]=[N-],,,NIST,33558.0,amine,Nitrogen-containing organics
+909,Azide ion,5.84509804,14343-69-2,[N-]=[N+]=[N-],,,NIST,33558.0,amine,Nitrogen-containing organics
+910,4-(Dimethylamino)nitrosobenzene,7.832508913,138-89-6,CN(C)C1=CC=C(C=C1)N=O,,,NIST,8749.0,halogeneted,Halogenated organics
+911,"1,4-Benzenediol",8.77815125,123-31-9,C1=CC(=CC=C1O)O,,,NIST,785.0,halogeneted,Halogenated organics
+912,"N,N-Dimethylaniline",7.556302501,121-69-7,CN(C)C1=CC=CC=C1,,,NIST,949.0,cyclo,Aromatic & PAHs
+913,10-Methylphenothiazine,4.924279286,1207-72-3,CN1C2=CC=CC=C2SC3=CC=CC=C31,,,NIST,71015.0,"sulfide, disulfide",Sulfur-containing organics
+914,Indole,7.84509804,120-72-9,C1=CC=C2C(=C1)C=CN2,7.2,,NIST,798.0,halogeneted,Halogenated organics
+915,Guanosine,7.0,118-00-3,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)NC(=NC2=O)N,,,NIST,765.0,diol,Polyfunctional / highly functionalized
+916,Guanosine,6.0,118-00-3,C1=NC2=C(N1C3C(C(C(O3)CO)O)O)NC(=NC2=O)N,7.1,,NIST,765.0,diol,Polyfunctional / highly functionalized
+917,Biliverdin,9.602059991,114-25-0,CC1=C(C(=CC2=C(C(=C(N2)C=C3C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)NC1=CC4=NC(=O)C(=C4C)C=C)CCC(=O)O,,,NIST,251.0,cyclo,Aromatic & PAHs
+918,Biliverdin,9.698970004,114-25-0,CC1=C(C(=CC2=C(C(=C(N2)C=C3C(=C(C(=O)N3)C)C=C)C)CCC(=O)O)NC1=CC4=NC(=O)C(=C4C)C=C)CCC(=O)O,10.5,,NIST,251.0,cyclo,Aromatic & PAHs
+919,Phenol,7.290034611,108-95-2,C1=CC=C(C=C1)O,8,,NIST,996.0,halogeneted,Halogenated organics
+920,Phenol,7.787460475,108-95-2,C1=CC=C(C=C1)O,9,,NIST,996.0,halogeneted,Halogenated organics
+921,Phenol,7.787460475,108-95-2,C1=CC=C(C=C1)O,9,,NIST,996.0,halogeneted,Halogenated organics
+922,Phenol,8.424881637,108-95-2,C1=CC=C(C=C1)O,10.3,,NIST,996.0,halogeneted,Halogenated organics
+923,Phenol,8.424881637,108-95-2,C1=CC=C(C=C1)O,10.3,,NIST,996.0,halogeneted,Halogenated organics
+924,"1,3-Benzenediol",7.301029996,108-46-3,C1=CC(=CC(=C1)O)O,,,NIST,5054.0,halogeneted,Halogenated organics
+925,3-Chlorophenol,6.73239376,108-43-0,C1=CC(=CC(=C1)Cl)O,,,NIST,7933.0,halogeneted,Halogenated organics
+926,4-Chlorophenol,6.77815125,106-48-9,C1=CC(=CC=C1O)Cl,,,NIST,4684.0,halogeneted,Halogenated organics
+927,Deoxycytidine monophosphate,5.0,1032-65-1,C1C(C(OC1N2C=CC(=NC2=O)N)COP(=O)(O)O)O,7,,NIST,624.0,diol,Polyfunctional / highly functionalized
+928,"N,N,N',N'-Tetramethyl-p-phenylenediamine",9.51851394,100-22-1,CN(C)C1=CC=C(C=C1)N(C)C,,,NIST,7490.0,halogeneted,Halogenated organics
+929,"N,N,N',N'-Tetramethyl-p-phenylenediamine",9.260071388,100-22-1,CN(C)C1=CC=C(C=C1)N(C)C,,,NIST,7490.0,halogeneted,Halogenated organics
+930,4-Nitrophenol,5.414973348,100-02-7,C1=CC(=CC=C1[N+](=O)[O-])O,,,NIST,980.0,halogeneted,Halogenated organics

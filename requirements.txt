@@ -1,0 +1,18 @@
+# 核心基础库
+python>=3.9.0  # 建议版本，适配所有依赖
+os-sys>=2.0.1  # os模块的封装（实际Python内置，无需安装）
+re>=2.2.1      # re模块的封装（实际Python内置，无需安装）
+sqlite3>=2.6.0 # sqlite3模块的封装（实际Python内置，无需安装）
+warnings>=0.1  # warnings模块的封装（实际Python内置，无需安装）
+
+# 第三方核心依赖
+streamlit>=1.30.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# RDKit相关（分子计算核心）
+rdkit-pypi>=2023.9.5  # 官方PyPI版本，适配Python 3.9+
+
+# 原requirements中未使用的库（已移除）
+# matplotlib>=3.7.0    # 代码中未导入/使用
+# scikit-learn>=1.2.0  # 代码中未导入/使用
